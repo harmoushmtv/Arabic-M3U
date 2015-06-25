@@ -1,6 +1,14 @@
 Lebanon
 
 EXTM3U
+
+#EXTINF:-1,TAPESH
+http://63.237.48.3/ios/TAPESH/TAPESH.m3u8
+#EXTINF:-1,Tchad
+rtmp://tchad.streamakaci.com/tchad/tchad.stream
+#EXTINF:-1,TRT 3
+http://188.227.189.18:8082/TV4026
+
 #EXTINF:0,Al-Manar TV
 rtmp://38.96.148.204/liveedge//livestream_360p
 #EXTINF:-1,NBN
