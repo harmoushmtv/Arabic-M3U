@@ -2,12 +2,12 @@ Lebanon
 
 EXTM3U
 
-#EXTINF:-1,TAPESH
-http://63.237.48.3/ios/TAPESH/TAPESH.m3u8
-#EXTINF:-1,Tchad
-rtmp://tchad.streamakaci.com/tchad/tchad.stream
-#EXTINF:-1,TRT 3
-http://188.227.189.18:8082/TV4026
+#EXTINF:-1,tunisia_national_1 m3u8
+http://162.212.176.107:1935/tunisia_national_1/globaltv-tunisia_national_1.stream/HasBahCa.m3u8
+#EXTINF:-1,tunisia_national_2
+rtmp://162.212.176.107:1935/tunisia_national_2/globaltv-tunisia_national_2.stream
+#EXTINF:-1,tunisia_national_2 m3u8
+http://162.212.176.107:1935/tunisia_national_2/globaltv-tunisia_national_2.stream/HasBahCa.m3u8
 
 #EXTINF:0,Al-Manar TV
 rtmp://38.96.148.204/liveedge//livestream_360p
