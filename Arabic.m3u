@@ -71,8 +71,6 @@ rtmp://str81.creacast.com:80/cna/live.sdp
 http://dmi.mangomolo.com:1935/dubaitv/smil:dubaitv.smil/playlist.m3u8
 #EXTINF:-1,DW Arabia
 http://www.metafilegenerator.de/DWelle/tv-arabia/ios/master.m3u8
-#EXTINF:-1,Echorouk TV
-http://live.echoroukonline.com/live/EchoroukTV/playlist.m3u8
 #EXTINF:-1,Funoon TV
 http://wpc.C56B.edgecastcdn.net/hls-live/20C56B/default/ThompsanECWTV/tsecwatanfunoonmed.m3u8
 #EXTINF:-1,GEM Bollywood
