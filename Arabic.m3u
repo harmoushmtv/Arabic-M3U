@@ -12,8 +12,6 @@ http://livestreaming.itworkscdn.net/otvmobile/otvlive_1/playlist.m3u8
 #EXTINF:-1,MTV Liban
 rtsp://livestreaming1.itworkscdn.net/mtvlive/murrtelevision_360p
 #EXTINF:-1 group-title="BestLinkss",LBC
-rtmp://162.212.176.107/lbc_europe//globaltv-lbc_europe.stream
-#EXTINF:-1 group-title="BestLinkss",LBC
 rtsp://livestreaming.itworkscdn.net/lbclive/lbc_2
 
 #EXTINF:-1,mayadeen
