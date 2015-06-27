@@ -13,6 +13,8 @@ http://livestreaming.itworkscdn.net/otvmobile/otvlive_1/playlist.m3u8
 rtsp://livestreaming1.itworkscdn.net/mtvlive/murrtelevision_360p
 #EXTINF:-1 group-title="BestLinkss",LBC
 rtsp://livestreaming.itworkscdn.net/lbclive/lbc_2
+#EXTINF:-1,Future
+http://$OPT:rtmp-raw=http://livestreaming.itworkscdn.net/ftvlive//ftvlive/playlist.m3u8
 
 #EXTINF:-1,mayadeen
 http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/almayadeen/ls_satlink/b_828.m3u8
