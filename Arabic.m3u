@@ -13,8 +13,7 @@ http://livestreaming.itworkscdn.net/otvmobile/otvlive_1/playlist.m3u8
 rtsp://livestreaming1.itworkscdn.net/mtvlive/murrtelevision_360p
 #EXTINF:-1 group-title="BestLinkss",LBC
 rtsp://livestreaming.itworkscdn.net/lbclive/lbc_2
-#EXTINF:-1,Future
-http://$OPT:rtmp-raw=http://livestreaming.itworkscdn.net/ftvlive//ftvlive/playlist.m3u8
+
 
 #EXTINF:-1,mayadeen
 http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/almayadeen/ls_satlink/b_828.m3u8
@@ -317,4 +316,68 @@ http://flv.alarab.net:8080//flv/84197.flv?start=0
 http://flv.alarab.net:8080//flv/84088.flv?start=0
 #EXTINF:-1 group-title="BestLinkss",ANN
 rtmp://ns8.indexforce.com/ann/ann
+
+#EXTINF:-1,flv 3oche_elbolbol
+http://flv.alarab.net:8080//flv/81232.flv
+#EXTINF:-1,flv 5otat_jimi
+http://flv.alarab.net:8080//flv/74722.flv
+#EXTINF:-1,flv 7alawat_rou7
+http://flv.alarab.net:8080//flv/80106.flv
+#EXTINF:-1,flv 7amati_bit7ibini
+http://flv.alarab.net:8080//flv/83334.flv
+#EXTINF:-1,flv 7olm_omr
+http://flv.alarab.net:8080//flv/76547.flv
+#EXTINF:-1,flv achita_lifat
+http://flv.alarab.net:8080//flv/75166.flv
+#EXTINF:-1,flv al_9achach
+http://flv.alarab.net:8080//flv/83155.flv
+#EXTINF:-1,flv al7ab_al3alamia_athalitha
+http://flv.alarab.net:8080//flv/80272.flv
+#EXTINF:-1,flv alharibatan
+http://flv.alarab.net:8080//flv/76509.flv
+#EXTINF:-1,flv aljazeera2
+http://flv.alarab.net:8080//flv/81800.flv
+#EXTINF:-1,flv almo3dia
+http://flv.alarab.net:8080//flv/82374.flv
+#EXTINF:-1,flv amwaj_9assira
+http://flv.alarab.net:8080//flv/79349.flv
+#EXTINF:-1,flv atarik_adairi
+http://flv.alarab.net:8080//flv/81569.flv
+#EXTINF:-1,flv bibi
+http://flv.alarab.net:8080//flv/76517.flv
+#EXTINF:-1,flv captin_hima
+http://flv.alarab.net:8080//flv/81153.flv
+#EXTINF:-1,flv elphil_ alazra9
+http://flv.alarab.net:8080//flv/80344.flv
+#EXTINF:-1,flv hojoum_montasaf_alil
+http://flv.alarab.net:8080//flv/81251.flv
+#EXTINF:-1,flv houjoum_montasaf_alil
+http://flv.alarab.net:8080//flv/76585.flv
+#EXTINF:-1,flv jawazat_miry
+http://flv.alarab.net:8080//flv/80472.flv
+#EXTINF:-1,flv kalam_jarayad
+http://flv.alarab.net:8080//flv/74953.flv
+#EXTINF:-1,flv lamoa5da
+http://flv.alarab.net:8080//flv/81304.flv
+#EXTINF:-1,flv made_in_egypt
+http://flv.alarab.net:8080//flv/79970.flv
+#EXTINF:-1,flv marati_wa_zawjati
+http://flv.alarab.net:8080//flv/80578.flv
+#EXTINF:-1,flv morjan_ahmed_morjan
+http://flv.alarab.net:8080//flv/81372.flv
+#EXTINF:-1,flv mot3ib_wa_chadia
+http://flv.alarab.net:8080//flv/74720.flv
+#EXTINF:-1,flv nazariat_3amiti
+http://flv.alarab.net:8080//flv/83198.flv
+#EXTINF:-1,flv salam_abou_o5to
+http://flv.alarab.net:8080//flv/80018.flv
+#EXTINF:-1,flv taxi_albalad_lebanon
+http://flv.alarab.net:8080//flv/76253.flv
+#EXTINF:-1,flv THE_DEALER
+http://flv.alarab.net:8080//flv/80603.flv
+#EXTINF:-1,flv villa69
+http://flv.alarab.net:8080//flv/79937.flv
+
+
+
 
