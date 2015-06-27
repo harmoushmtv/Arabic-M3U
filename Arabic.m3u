@@ -279,10 +279,91 @@ http://87.245.214.43/streaming/futbol/16/tvrec/playlist.m3u8
 rtmp://myafricanmega.tulix.tv:1935/map-alsunnah/map-alsunnah.stream
 #EXTINF:-1 group-title="BestLinkss",wissal-tv
 http://109.123.123.82:1935/wesal/wesal1/chunklist_w2021646403.m3u8
+#EXTINF:-1, Dubai TV
+http://dmi.mangomolo.com:1935/dubaitv/smil:dubaitv.smil/playlist.m3u8
+#EXTINF:-1, Dubai ONE
+http://dmi.mangomolo.com:1935/dubaione/smil:dubaione.smil/playlist.m3u8
+#EXTINF:-1, Noor DubaiTV
+http://dmi.mangomolo.com:1935/noordubaitv/smil:noordubaitv.smil/playlist.m3u8
+#EXTINF:-1, Sama Dubai
+http://dmi.mangomolo.com:1935/samadubai/smil:samadubai.smil/playlist.m3u8
+#EXTINF:-1, Dubai Racing
+http://dmi.mangomolo.com:1935/dubairacing/smil:dubairacing.smil/playlist.m3u8
+#EXTINF:-1, Dubai Sports
+http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/playlist.m3u8
+#EXTINF:-1,2M 
+http://origin2.live.web.tv.streamprovider.net/streams/a75793f45c54c78f66331bf9dda98222/index.m3u8
+#EXTINF:-1,Al Hayat 2
+http://media.islamexplained.com:1935/live/ngrp:ahusa.stream_all/BratuMarian.m3u8
+
+#EXTINF:-1,Syria
+http://82.137.248.16:1935/Sat/SatLive2/HasBahCa.m3u8
+#EXTINF:-1,Syria
+http://82.137.248.16:1935/Sat/SatLive2/playlist.m3u8
+#EXTINF:-1,Syria Aloula
+http://82.137.248.21:1935/Aloula/AloulaLive3/HasBahCa.m3u8
+#EXTINF:-1,Syria Drama
+http://82.137.248.21:1935/Drama/DramaLive3/HasBahCa.m3u8
+#EXTINF:-1,Syria Nour
+http://82.137.248.21:1935/Nour/NourLive2/HasBahCa.m3u8
+
+#EXTINF:-1,Sama Syria 
+http://sama-tv.net:1935/live/samatv/playlist.m3u8
+#EXTINF:-1,Syria drama
+http://82.137.248.21:1935/Drama/DramaLive1/playlist.m3u8
+#EXTINF:-1,Syria news 
+http://82.137.248.16:1935/Snews/SnewsLive1/gmswf.m3u8
+#EXTINF:-1,Syria TV 
+http://82.137.248.16:1935/Sat/SatLive3/playlist.m3u8
+#EXTINF:-1,Syria
+http://82.137.248.16:1935/Sat/SatLive2/BratuMarian.m3u8
+#EXTINF:-1,Syria Aloula
+http://82.137.248.21:1935/Aloula/AloulaLive3/BratuMarian.m3u8
+#EXTINF:-1,Syria Drama
+http://82.137.248.21:1935/Drama/DramaLive3/BratuMarian.m3u8
+#EXTINF:-1,Syria Nour
+http://82.137.248.21:1935/Nour/NourLive2/BratuMarian.m3u8
+
+#EXTINF:-1,AL HURRA SYRIA
+rtmp://cp51007.live.edgefcs.net/live/Alhurra_Flash@15
+#EXTINF:-1,Syria-Nour alsham
+http://82.137.248.21:1935/Nour/NourLive1/playlist.m3u8
+#EXTINF:-1,Syria aloula
+http://82.137.248.21:1935/Aloula/AloulaLive3/playlist.m3u8
+#EXTINF:-1, Syria Drama	
+http://82.137.248.21:1935/Drama/DramaLive3/playlist.m3u8
+#EXTINF:-1,Talaqie
+rtmp://82.137.248.20/Talaqie/TalaqieLive2
+#EXTINF:-1,Alikhbaria Syria
+rtmp://82.137.248.16/Snews/SnewsLive1
+
+#EXTINF:-1,Medine
+http://46.245.160.224/medine/medine/gmswf.m3u8
+#EXTINF:-1,Mekke
+http://46.245.160.224/mekke/mekke/gmswf.m3u8
+
+#EXTINF:-1,Nabaa
+rtmp://31.14.40.238:1935/live/Nabaa
+#EXTINF:-1,Noor Dubai TV
+http://cdnedvrnoordubaitv.endavomedia.com/smil:dmilivenoordubaitvhls.smil/BratuMarian.m3u8
+
+#EXTINF:-1,Quran TV
+rtmp://208.75.224.165:1935/map-alquraan/map-alquraan.stream
+#EXTINF:-1,Quran tv
+http://46.245.160.224/mekke/mekke/gmswf.m3u8
+#EXTINF:-1,Radio Quran Qatar
+rtmp://AgendaStreamer1.qna.org.qa/qrn//qrn
+#EXTINF:-1,KSA Quran Radio
+http://broadcastquran.ism3na.com:8332/;stream.mp3
+#EXTINF:-1,Quran
+http://www.elahmad.com/tv/m3u8/itworkscdn.m3u8?id=quran1
+
+
 
 #EXTINF:-1 group-title="BestLinkss",Film 1 2014
 http://flv.alarab.net:8080//flv/83155.flv?start=0
-#EXTINF:-1 group-title="BestLinkss",===========Arabic Films =======================
+
+#EXTINF:-1 group-title="BestLinkss",=========== Arabic Films =======================
 
 #EXTINF:-1 group-title="BestLinkssFilm from A to B 2015
 http://flv.alarab.net:8080//flv/83809.flv?start=0
