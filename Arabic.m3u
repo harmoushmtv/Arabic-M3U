@@ -29,20 +29,19 @@ http://50.23.65.8/live/dream2/index.m3u8
 http://50.23.65.8/live/rotana_classic/index.m3u8
 #EXTINF:0,rotana_massriya
 http://50.23.65.8/live/rotana_massriya/index.m3u8
-#EXTINF:0,rotana_massriya
+#EXTINF:0,rotana_khalijiah
 http://50.23.65.8/live/rotana_khalijiah/index.m3u8
-#EXTINF:0,rotana_massriya
+#EXTINF:0,rotana_Cinema
 http://50.23.65.8/live/rotana_cinema_plus/index.m3u8
-#EXTINF:0,rotana_massriya
+#EXTINF:0,rotana_massriya_2
 http://50.23.65.8/live/rotana_massriya_plus/index.m3u8
-#EXTINF:0,rotana_massriya
+#EXTINF:0,rotana_khalijiah_2
 http://50.23.65.8/live/rotana_khalijiah_plus/index.m3u8
-#EXTINF:0,rotana_massriya
+#EXTINF:0,rotana_set_el_bait
 http://50.23.65.8/live/set_el_bait/index.m3u8
-#EXTINF:0,rotana_massriya
+#EXTINF:0,rotana_set_el_bait_2
 http://50.23.65.8/live/set_el_bait_plus/index.m3u8
-#EXTINF:0,ON TV
-http://50.23.65.8/live/ontv/index.m3u
+
 #EXTINF:0,ON TV LIVE
 http://50.23.65.8/live/ontv_live/index.m3u8
 #EXTINF:0,ON TV PLUS
