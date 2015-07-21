@@ -12,12 +12,12 @@ http://livestreaming.itworkscdn.net/otvmobile/otvlive_1/playlist.m3u8
 #EXTINF:-1,MTV Liban
 rtsp://livestreaming1.itworkscdn.net/mtvlive/murrtelevision_360p
 #EXTINF:-1,Tele_Liban
-http://38.99.146.37:7777/TeleLiban_HD.m3u8?user=HTTP_Proxy_ZIXI-37_1209712&session=118d5f674aefb556d2fa6bbc5ad5964cf0bc400f117c02176ced42964d1b6e60&hlsid=HLS_149700
-#EXTINF:-1,Future TV
-http://176.53.21.99:8082/TV6000
-#EXTINF:-1,LBC
-http://176.53.21.99:8082/TV6001
 
+http://38.99.146.37:7777/TeleLiban_HD.m3u8?user=HTTP_Proxy_ZIXI-37_1209712&session=118d5f674aefb556d2fa6bbc5ad5964cf0bc400f117c02176ced42964d1b6e60&hlsid=HLS_149700
+#EXTINF:0,Future_TV
+http://62.210.87.116:8883/live/Hmtooo/fannen3/112.ts
+#EXTINF:-1,LDC h
+http://176.53.21.99:8082/TV6022
 
 
 #EXTINF:-1,mayadeen
