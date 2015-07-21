@@ -701,10 +701,7 @@ http://www.elahmad.com/tv/m3u8/itworkscdn.m3u8?id=quran1
 
 
 
-#EXTINF:-1 group-title="BestLinkss",Film 1 2014
-http://flv.alarab.net:8080//flv/83155.flv?start=0
 
-#EXTINF:-1 group-title="BestLinkss",=========== Arabic Films =======================
 
 #EXTINF:-1 group-title="BestLinkssFilm from A to B 2015
 http://flv.alarab.net:8080//flv/83809.flv?start=0
@@ -799,6 +796,262 @@ http://flv.alarab.net:8080//flv/76253.flv
 http://flv.alarab.net:8080//flv/80603.flv
 #EXTINF:-1,flv villa69
 http://flv.alarab.net:8080//flv/79937.flv
+
+
+
+
+#EXTINF:-1 group-title="Sports",Film 1 2014
+http://flv.alarab.net:8080//flv/83155.flv?start=0
+
+#EXTINF:-1 group-title="Sports",=========== Sports =======================
+
+
+#EXTINF:0,SPORTS Arena sport 1
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/364.ts
+#EXTINF:0,SPORTS Arena sport 2
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/365.ts
+#EXTINF:0,SPORTS Arena sport 3
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/366.ts
+#EXTINF:0,SPORTS Arena sport 4
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/367.ts
+#EXTINF:0,SPORTS Arena Sport 1 Croatia
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/1778.ts
+#EXTINF:0,SPORTS Arena Sport 2 Croatia
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/1779.ts
+#EXTINF:0,SPORTS Arena Sport 3 Croatia
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/1780.ts
+#EXTINF:0,SPORTS Arena Sport 4 Croatia
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/1781.ts
+#EXTINF:0,SPORTS Astro Supersport 1 HD
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/1203.ts
+#EXTINF:0,SPORTS Astro Supersport 2 HD
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/1204.ts
+#EXTINF:0,SPORTS Astro Supersport 3 HD
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/1205.ts
+#EXTINF:0,SPORTS Astro Supersport 4 HD
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/2636.ts
+#EXTINF:0,SPORTS LIG TV1
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/659.ts
+#EXTINF:0,SPORTS LIG TV2
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/660.ts
+#EXTINF:0,SPORTS LIG TV3
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/661.ts
+#EXTINF:0,SPORTS BIG TEN
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/2309.ts
+#EXTINF:0,SPORTS Digi Sport 1
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/1206.ts
+#EXTINF:0,SPORTS Digi Sport 2
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/1207.ts
+#EXTINF:0,SPORTS Digi Sport 3
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/1208.ts
+#EXTINF:0,SPORTS CTH Stadium 1
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/663.ts
+#EXTINF:0,SPORTS CTH Stadium 2
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/664.ts
+#EXTINF:0,SPORTS CTH Stadium 3
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/665.ts
+#EXTINF:0,SPORTS CTH Stadium 4
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/666.ts
+#EXTINF:0,SPORTS CTH Stadium 5
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/667.ts
+#EXTINF:0,SPORTS CTH Stadium 6
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/668.ts
+#EXTINF:0,SPORTS CTH Stadium
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/669.ts
+#EXTINF:0,SPORTS NBA TV
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/662.ts
+#EXTINF:0,SPORTS OSN Sports
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/1000.ts
+#EXTINF:0,SPORTS Smart Sport 1
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/370.ts
+#EXTINF:0,SPORTS Sport Klub 1
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/656.ts
+#EXTINF:0,SPORTS Sport Klub 2
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/657.ts
+#EXTINF:0,SPORTS Sport Klub 3
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/658.ts
+#EXTINF:0,SPORTS Sport Klub 4
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/1557.ts
+#EXTINF:0,SPORTS Sport TV 1 (PT)
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/1157.ts
+#EXTINF:0,SPORTS Sport TV 2 (PT)
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/1158.ts
+#EXTINF:0,SPORTS Sport TV 3 (PT)
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/1159.ts
+#EXTINF:0,SPORTS VIASAT Sports
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/1164.ts
+#EXTINF:0,SPORTS VIASAT Football
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/1165.ts
+#EXTINF:0,SPORTS SuperSport News
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/1476.ts
+#EXTINF:0,SPORTS Silk Sport 1
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/1160.ts
+#EXTINF:0,SPORTS Silk Sport 2
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/1161.ts
+#EXTINF:0,SPORTS Silk Sport 3
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/1162.ts
+#EXTINF:0,SPORTS Silk Sport 4
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/1163.ts
+#EXTINF:0,SPORTS Hunting-Fishing
+http://iptvchoice.zapto.org:8000/live/savas1/savas1/1531.ts
+
+#EXTINF:0,beIN Sports News HD
+http://ultra-camd.ddns.net:8000/live/prohdvision/skype:blackofserverdz/42.ts
+#EXTINF:0,beIN Sports 1 HD
+http://ultra-camd.ddns.net:8000/live/prohdvision/skype:blackofserverdz/43.ts
+#EXTINF:0,beIN Sports 2 HD
+http://ultra-camd.ddns.net:8000/live/prohdvision/skype:blackofserverdz/44.ts
+#EXTINF:0,beIN Sports 3 HD
+http://ultra-camd.ddns.net:8000/live/prohdvision/skype:blackofserverdz/45.ts
+#EXTINF:0,beIN Sports 4 HD
+http://ultra-camd.ddns.net:8000/live/prohdvision/skype:blackofserverdz/46.ts
+#EXTINF:0,beIN Sports 5 HD
+http://ultra-camd.ddns.net:8000/live/prohdvision/skype:blackofserverdz/47.ts
+#EXTINF:0,beIN Sports 6 HD
+http://ultra-camd.ddns.net:8000/live/prohdvision/skype:blackofserverdz/48.ts
+#EXTINF:0,beIN Sports 7 HD
+http://ultra-camd.ddns.net:8000/live/prohdvision/skype:blackofserverdz/49.ts
+#EXTINF:0,beIN Sports 8 HD
+http://ultra-camd.ddns.net:8000/live/prohdvision/skype:blackofserverdz/50.ts
+#EXTINF:0,beIN Sports 9 HD
+http://ultra-camd.ddns.net:8000/live/prohdvision/skype:blackofserverdz/51.ts
+#EXTINF:0,beIN Sports 10 HD
+http://ultra-camd.ddns.net:8000/live/prohdvision/skype:blackofserverdz/52.ts
+#EXTINF:0,beIN Sports 11 HD
+http://ultra-camd.ddns.net:8000/live/prohdvision/skype:blackofserverdz/53.ts
+#EXTINF:0,beIN Sports 12 HD
+http://ultra-camd.ddns.net:8000/live/prohdvision/skype:blackofserverdz/54.ts
+#EXTINF:0,beIN Sports 13 FR HD
+http://ultra-camd.ddns.net:8000/live/prohdvision/skype:blackofserverdz/55.ts
+#EXTINF:0,beIN Sports 14 HD
+http://ultra-camd.ddns.net:8000/live/prohdvision/skype:blackofserverdz/56.ts
+#EXTINF:0,beIN Sports 15 HD
+http://ultra-camd.ddns.net:8000/live/prohdvision/skype:blackofserverdz/57.ts
+#EXTINF:0,beIN Sports news
+http://ultra-camd.ddns.net:8000/live/prohdvision/skype:blackofserverdz/66.ts
+#EXTINF:0,beIN SPORTS 2HD FR
+http://ultra-camd.ddns.net:8000/live/prohdvision/skype:blackofserverdz/70.ts
+#EXTINF:0,beIN SPORTS 1HD FR
+http://ultra-camd.ddns.net:8000/live/prohdvision/skype:blackofserverdz/69.ts
+#EXTINF:0,Sky sports 4
+http://ultra-camd.ddns.net:8000/live/prohdvision/skype:blackofserverdz/65.ts
+#EXTINF:0,Sky sports 3
+http://ultra-camd.ddns.net:8000/live/prohdvision/skype:blackofserverdz/64.ts
+#EXTINF:0,Sky sports 2
+http://ultra-camd.ddns.net:8000/live/prohdvision/skype:blackofserverdz/63.ts
+#EXTINF:0, Sky sports 1
+http://ultra-camd.ddns.net:8000/live/prohdvision/skype:blackofserverdz/62.ts
+#EXTINF:0,Sky Sport F1
+http://ultra-camd.ddns.net:8000/live/prohdvision/skype:blackofserverdz/68.ts
+#EXTINF:0,BT sport
+http://ultra-camd.ddns.net:8000/live/prohdvision/skype:blackofserverdz/67.ts
+#EXTINF:0,TF1
+http://ultra-camd.ddns.net:8000/live/prohdvision/skype:blackofserverdz/1.ts
+#EXTINF:0,beIN SPORTS 1HD
+http://star7arab.zapto.org:8082/TV4001
+#EXTINF:0,beIN SPORTS 2HD
+http://star7arab.zapto.org:8082/TV4002
+#EXTINF:0,beIN SPORTS 3HD
+http://star7arab.zapto.org:8082/TV4003
+#EXTINF:0,beIN SPORTS 4HD
+http://star7arab.zapto.org:8082/TV4004
+#EXTINF:0,beIN SPORTS 5HD
+http://star7arab.zapto.org:8082/TV4005
+#EXTINF:0,beIN SPORTS 6HD
+http://star7arab.zapto.org:8082/TV4006
+#EXTINF:0,beIN SPORTS 7HD
+http://star7arab.zapto.org:8082/TV4007
+#EXTINF:0,beIN SPORTS 8HD
+http://star7arab.zapto.org:8082/TV4008
+#EXTINF:0,beIN SPORTS 9HD
+http://star7arab.zapto.org:8082/TV4009
+#EXTINF:0,beIN SPORTS 10HD
+http://star7arab.zapto.org:8082/TV4010
+#EXTINF:0,beIN SPORTS 11HD
+http://star7arab.zapto.org:8082/TV4011
+#EXTINF:0,beIN SPORTS 1HD
+http://star7arab.zapto.org:8082/TV4012
+#EXTINF:0,beIN SPORTS 1HD FR
+http://star7arab.zapto.org:8082/TV4013
+#EXTINF:0,beIN SPORTS 2HD FR
+http://star7arab.zapto.org:8082/TV4014
+#EXTINF:0,BEINSPORT 1HD
+http://188.93.234.112:8082/TV4001
+#EXTINF:0,BEINSPORT 2HD
+http://188.93.234.112:8082/TV4002
+#EXTINF:0,BEINSPORT 3HD
+http://188.93.234.112:8082/TV4003
+#EXTINF:0,BEINSPORT 4HD
+http://188.93.234.112:8082/TV4004
+#EXTINF:0,BEINSPORT 5HD
+http://188.93.234.112:8082/TV4005
+#EXTINF:0,BEINSPORT 6HD
+http://188.93.234.112:8082/TV4006
+#EXTINF:0,BEINSPORT 7HD
+http://188.93.234.112:8082/TV4007
+#EXTINF:0,BEINSPORT 8HD
+http://188.93.234.112:8082/TV4008
+#EXTINF:0,BEINSPORT 9HD
+http://188.93.234.112:8082/TV4009
+#EXTINF:0,BEINSPORT 10HD
+http://188.93.234.112:8082/TV4010
+#EXTINF:0,BEINSPORT 11HD
+http://188.93.234.112:8082/TV4011
+#EXTINF:0,BEINSPORT 1HDEN
+http://188.93.234.112:8082/TV4012
+#EXTINF:0,BEINSPORT 1HDFR
+http://188.93.234.112:8082/TV4013
+#EXTINF:0,BEINSPORT 2HDFR
+http://188.93.234.112:8082/TV4014
+
+#EXTINF:0,beIN SPORTS 1 HD
+http://iptv4.is-certified.com:8000/live/sozdar/TRIALWX/849.ts
+#EXTINF:0,beIN SPORTS 2 HD
+http://iptv4.is-certified.com:8000/live/sozdar/TRIALWX/873.ts
+#EXTINF:0,beIN SPORTS 3 HD
+http://iptv4.is-certified.com:8000/live/sozdar/TRIALWX/943.ts
+#EXTINF:0,beIN SPORTS 4 HD
+http://iptv4.is-certified.com:8000/live/sozdar/TRIALWX/850.ts
+#EXTINF:0,beIN SPORTS 5 HD
+http://iptv4.is-certified.com:8000/live/sozdar/TRIALWX/851.ts
+#EXTINF:0,beIN SPORTS 6 HD
+http://iptv4.is-certified.com:8000/live/sozdar/TRIALWX/1045.ts
+#EXTINF:0,beIN SPORTS 7 HD
+http://iptv4.is-certified.com:8000/live/sozdar/TRIALWX/852.ts
+#EXTINF:0,beIN SPORTS 8 HD
+http://iptv4.is-certified.com:8000/live/sozdar/TRIALWX/1046.ts
+#EXTINF:0,beIN SPORTS 9 HD
+http://iptv4.is-certified.com:8000/live/sozdar/TRIALWX/853.ts
+#EXTINF:0,beIN SPORTS 10 HD
+http://iptv4.is-certified.com:8000/live/sozdar/TRIALWX/854.ts
+#EXTINF:0,Bein Sports 12
+http://iptv4.is-certified.com:8000/live/sozdar/TRIALWX/1963.ts
+
+Sport Klub 1
+http://84.22.33.25/ss1/index.m3u8
+
+#EXTINF:0,Arena Sport 1 hr
+http://balkanstream.com/stream/arenasport1hr/rajko/rajko
+#EXTINF:0,Arena Sport 2 hr
+http://balkanstream.com/stream/arenasport2hr/rajko/rajko
+#EXTINF:0,Arena Sport 3 hr
+http://balkanstream.com/stream/arenasport3hr/rajko/rajko
+#EXTINF:0,Arena Sport 4 hr
+http://balkanstream.com/stream/arenasport4hr/rajko/rajko
+#EXTINF:0,Arena Sport 1 sr
+http://balkanstream.com/stream/arenasport1sr/rajko/rajko
+#EXTINF:0,Arena Sport 2 sr
+http://balkanstream.com/stream/arenasport2sr/rajko/rajko
+#EXTINF:0,Arena Sport 3 sr
+http://balkanstream.com/stream/arenasport3sr/rajko/rajko
+#EXTINF:0,Arena Sport 4 sr
+http://balkanstream.com/stream/arenasport4sr/rajko/rajko
+#EXTINF:0,SportKlub 1 HR
+http://balkanstream.com/stream/sportklub4hr/rajko/rajko
+#EXTINF:0,SportKlub 2 HR
+http://balkanstream.com/stream/sportklub2hr/rajko/rajko
+#EXTINF:0,SportKlub 2 HR
+http://balkanstream.com/stream/sportklub3hr/rajko/rajko
 
 
 
