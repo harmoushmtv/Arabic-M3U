@@ -629,6 +629,52 @@ http://media.islamexplained.com:1935/live/ngrp:ahusa.stream_all/BratuMarian.m3u8
 
 
 
+#EXTINF:0,AR: ART Aflam 2
+http://iptv4.is-certified.com:8000/live/sozdar/TRIALWX/949.ts
+#EXTINF:0,AR: ART Cinema
+http://iptv4.is-certified.com:8000/live/sozdar/TRIALWX/948.ts
+#EXTINF:0,AR: OSN MBC Drama
+http://iptv4.is-certified.com:8000/live/sozdar/TRIALWX/2017.ts
+#EXTINF:0,AR: MBC2
+http://iptv4.is-certified.com:8000/live/sozdar/TRIALWX/1421.ts
+#EXTINF:0,AR: Toyor Aljannah
+http://iptv4.is-certified.com:8000/live/sozdar/TRIALWX/1927.ts
+#EXTINF:0,AR: Rotana massria
+http://iptv4.is-certified.com:8000/live/sozdar/TRIALWX/1926.ts
+#EXTINF:0,AR: Rotan Cinema Classic
+http://iptv4.is-certified.com:8000/live/sozdar/TRIALWX/1925.ts
+#EXTINF:0,AR: Alhayat
+http://iptv4.is-certified.com:8000/live/sozdar/TRIALWX/1898.ts
+#EXTINF:0,AR: Al oula maroc
+http://iptv4.is-certified.com:8000/live/sozdar/TRIALWX/1896.ts
+#EXTINF:0,AR: 2m maroc
+http://iptv4.is-certified.com:8000/live/sozdar/TRIALWX/1895.ts
+#EXTINF:0,AR: Rotana Clip
+http://iptv4.is-certified.com:8000/live/sozdar/TRIALWX/1924.ts
+#EXTINF:0,AR: Nessma
+http://iptv4.is-certified.com:8000/live/sozdar/TRIALWX/1922.ts
+#EXTINF:0,AR: Medi1
+http://iptv4.is-certified.com:8000/live/sozdar/TRIALWX/1920.ts
+#EXTINF:0,AR: MBC4
+http://iptv4.is-certified.com:8000/live/sozdar/TRIALWX/1919.ts
+#EXTINF:0,AR: MBC masr
+http://iptv4.is-certified.com:8000/live/sozdar/TRIALWX/1917.ts
+#EXTINF:0,AR: MBC bollywood
+http://iptv4.is-certified.com:8000/live/sozdar/TRIALWX/1916.ts
+#EXTINF:0,AR: MBC action
+http://iptv4.is-certified.com:8000/live/sozdar/TRIALWX/1915.ts
+#EXTINF:0,AR: MBC
+http://iptv4.is-certified.com:8000/live/sozdar/TRIALWX/1914.ts
+#EXTINF:0,AR: CBC drama
+http://iptv4.is-certified.com:8000/live/sozdar/TRIALWX/1904.ts
+#EXTINF:0,AR: CBC
+http://iptv4.is-certified.com:8000/live/sozdar/TRIALWX/1905.ts
+#EXTINF:0,AR: alnahar
+http://iptv4.is-certified.com:8000/live/sozdar/TRIALWX/1900.ts
+
+
+
+
 #EXTINF:-1,AL HURRA SYRIA
 rtmp://cp51007.live.edgefcs.net/live/Alhurra_Flash@15
 #EXTINF:-1,Syria-Nour alsham
