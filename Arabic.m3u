@@ -22,7 +22,7 @@ http://live.pgmedia.ir:1935/live-35895787/alkosar-1024.sdp/playlist.m3u8?DVR
 #EXTINF:-1,Al Maaref
 http://almaareftv.com:1935/live/1/HasBahCa.m3u8
 #EXTINF:0,russia_today
-http://50.23.65.8/live/russia_today/index.m3u8
+http://216.105.40.244/live/russia_today/index.m3u8
 #EXTINF:-1,DW Arabia
 http://www.metafilegenerator.de/DWelle/tv-arabia/ios/master.m3u8
 #EXTINF:-1,Aljazeera Doc
@@ -349,8 +349,7 @@ http://216.105.40.244/live/al_majd/index.m3u8
 http://216.105.40.244/live/al_majd/index.m3u8
 #EXTINF:0,al_naeem_tv
 http://216.105.40.244/live/al_naeem_tv/index.m3u8
-#EXTINF:0,russia_today
-http://216.105.40.244/live/russia_today/index.m3u8
+
 
 
 
