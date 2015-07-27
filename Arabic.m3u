@@ -4,7 +4,7 @@ EXTM3U
 #EXTINF:-1,Al Manar
 http://38.96.148.199:1935/liveedge1/livestream_720p/chunklist_w768131600.m3u8
 #EXTINF:-1,NBN
-rtmp://lived.nbn.com.lb/nbn?gmswf=1481326180/mpegts.stream
+http://185.56.30.127:8082/TV6038
 #EXTINF:-1,Aljadid
 http://livestreaming.itworkscdn.net/aljadeedlive/aljadeed_360p/playlist.m3u8
 #EXTINF:-1,OTV
