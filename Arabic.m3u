@@ -14,6 +14,12 @@ rtsp://livestreaming1.itworkscdn.net/mtvlive/murrtelevision_360p
 #EXTINF:-1,Tele_Liban
 http://38.99.146.37:7777/TeleLiban_HD.m3u8?user=HTTP_Proxy_ZIXI-37_1209712&session=118d5f674aefb556d2fa6bbc5ad5964cf0bc400f117c02176ced42964d1b6e60&hlsid=HLS_149700
 
+#EXTINF:0,Future TV
+http://89.248.171.141/ts60/ch1014/index.m3u8
+#EXTINF:0,LBC
+http://89.248.171.141/ts60/ch1020/index.m3u8
+#EXTINF:0,LDC Lebanon
+http://89.248.171.141/ts60/ch1205/index.m3u8
 
 #EXTINF:-1,mayadeen
 http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/almayadeen/ls_satlink/b_828.m3u8
