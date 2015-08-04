@@ -26,8 +26,7 @@ http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/almayadeen/ls_satlink/b_828.m3u8
 http://live.pgmedia.ir:1935/live-35895787/alkosar-1024.sdp/playlist.m3u8?DVR
 #EXTINF:-1,Al Maaref
 http://almaareftv.com:1935/live/1/HasBahCa.m3u8
-#EXTINF:0,russia_today
-http://216.105.40.244/live/russia_today/index.m3u8
+
 #EXTINF:-1,DW Arabia
 http://www.metafilegenerator.de/DWelle/tv-arabia/ios/master.m3u8
 #EXTINF:-1,Aljazeera Doc
@@ -519,45 +518,89 @@ http://flv.alarab.net:8080//flv/83155.flv?start=0
 
 #EXTINF:-1 group-title="Sports",=========== Sports =======================
 
-BEIN SPORTS 1 HD,
-http://serversdziptv.zapto.org:9500/serversdz.net/serversdz.com/19.ch
-BEIN SPORTS 2
-HD,http://serversdziptv.zapto.org:9500/serversdz.net/serversdz.com/5.ch
-BEIN SPORTS 3
-HD,http://serversdziptv.zapto.org:9500/serversdz.net/serversdz.com/7.ch
-BEIN SPORTS 4
-HD,http://serversdziptv.zapto.org:9500/serversdz.net/serversdz.com/6.ch
-BEIN SPORTS 5
-HD,http://serversdziptv.zapto.org:9500/serversdz.net/serversdz.com/8.ch
-BEIN SPORTS 6
-HD,http://serversdziptv.zapto.org:9500/serversdz.net/serversdz.com/9.ch
-BEIN SPORTS 7
-HD,http://serversdziptv.zapto.org:9500/serversdz.net/serversdz.com/10.ch
-BEIN SPORTS 8
-HD,http://serversdziptv.zapto.org:9500/serversdz.net/serversdz.com/11.ch
-BEIN SPORTS 9
-HD,http://serversdziptv.zapto.org:9500/serversdz.net/serversdz.com/12.ch
+#EXTINF:0,beIN1
+http://91.109.20.227:8080/TV4001
+#EXTINF:0,beIN2
+http://91.109.20.227:8080/TV4002
+#EXTINF:0,beIN3
+http://91.109.20.227:8080/TV4003
+#EXTINF:0,beIN4 
+http://91.109.20.227:8080/TV4004
+#EXTINF:0,beIN5 
+http://91.109.20.227:8080/TV4005
+#EXTINF:0,beIN6 
+http://91.109.20.227:8080/TV4006
+#EXTINF:0,beIN7 
+http://91.109.20.227:8080/TV4007
+#EXTINF:0,beIN8 
+http://91.109.20.227:8080/TV4008 
+#EXTINF:0,beIN9 
+http://91.109.20.227:8080/TV4009 
+#EXTINF:0,beIN10
+http://91.109.20.227:8080/TV40010 
+#EXTINF:0,beIN11 
+http://91.109.20.227:8080/TV40011 
+#EXTINF:0,beIN12 
+http://91.109.20.227:8080/TV40012 
+#EXTINF:0,beIN13 
+http://91.109.20.227:8080/TV40013 
+#EXTINF:0,beIN14 
+http://91.109.20.227:8080/TV40014 
+#EXTINF:0,beIN15 
+http://91.109.20.227:8080/TV40015 
+#EXTINF:0,beIN1
+http://91.109.20.227:8080/TV0801 
+#EXTINF:0,beIN2
+http://91.109.20.227:8080/TV0802 
+#EXTINF:0,beIN3
+http://91.109.20.227:8080/TV0803 
+#EXTINF:0,beIN4
+http://91.109.20.227:8080/TV0804 
+#EXTINF:0,beIN5
+http://91.109.20.227:8080/TV0805 
+#EXTINF:0,32 beIN 6 s2 
+http://91.109.20.227:8080/TV4006
+#EXTINF:0,beIN7
+http://91.109.20.227:8080/TV0807 
+#EXTINF:0,beIN8
+http://91.109.20.227:8080/TV0808 
+#EXTINF:0,beIN9
+http://91.109.20.227:8080/TV0809
 
 
-#EXTINF:0,BEIN SPORT 1 HD
-http://portal.rapidiptv.com:8080/live/onur/onur/2447.m3u8
-#EXTINF:0,BEIN SPORT 2
-http://portal.rapidiptv.com:8080/live/onur/onur/2448.m3u8
-#EXTINF:0,BEIN SPORT 3
-http://portal.rapidiptv.com:8080/live/onur/onur/2449.m3u8
-#EXTINF:0,BEIN SPORT 4
-http://portal.rapidiptv.com:8080/live/onur/onur/2450.m3u8
-#EXTINF:0,BEIN SPORT 5
-http://portal.rapidiptv.com:8080/live/onur/onur/2451.m3u8
-#EXTINF:0,BEIN SPORT 6
-http://portal.rapidiptv.com:8080/live/onur/onur/2452.m3u8
-#EXTINF:0,BEIN SPORT 7
-http://portal.rapidiptv.com:8080/live/onur/onur/2453.m3u8
-#EXTINF:0,BEIN SPORT8 HD
-http://portal.rapidiptv.com:8080/live/onur/onur/2454.m3u8
-#EXTINF:0,BEIN SPORT 9
-http://portal.rapidiptv.com:8080/live/onur/onur/2455.m3u8
-#EXTINF:0,BEIN SPORT 10
+#EXTINF:0,beIN SPORTS 1HD
+http://185.56.30.127:8082/TV4001
+#EXTINF:0,beIN SPORTS 2HD
+http://185.56.30.127:8082/TV4002
+#EXTINF:0,beIN SPORTS 3HD
+http://185.56.30.127:8082/TV4003
+#EXTINF:0,beIN SPORTS 4HD
+http://185.56.30.127:8082/TV4004
+#EXTINF:0,beIN SPORTS 5HD
+http://185.56.30.127:8082/TV4005
+#EXTINF:0,beIN SPORTS 6HD
+http://185.56.30.127:8082/TV4006
+#EXTINF:0,beIN SPORTS 7HD
+http://185.56.30.127:8082/TV4007
+#EXTINF:0,beIN SPORTS 8HD
+http://185.56.30.127:8082/TV4008
+#EXTINF:0,beIN SPORTS 9HD
+http://185.56.30.127:8082/TV4009
+#EXTINF:0,beIN SPORTS 10HD
+http://185.56.30.127:8082/TV4010
+#EXTINF:0,beIN SPORTS 11HD
+http://185.56.30.127:8082/TV4011
+#EXTINF:0,beIN SPORTS 1HDEN
+http://185.56.30.127:8082/TV4012
+#EXTINF:0,beIN SPORTS 1HDFR
+http://185.56.30.127:8082/TV4013
+#EXTINF:0,beIN SPORTS 2HD
+http://185.56.30.127:8082/TV4014
+#EXTINF:-1,AR: beINSport 9 HD
+#EXTINF:-1, Bein Sports 1 (FR)
+rtmp://176.10.250.166:1935/tv/stream3
+#EXTINF:-1,Bein Sports 2 (FR)
+rtmp://176.10.250.166:1935/tv/stream2
 
 #EXTINF:0,SPORTS Arena sport 1
 http://iptvchoice.zapto.org:8000/live/savas1/savas1/364.ts
