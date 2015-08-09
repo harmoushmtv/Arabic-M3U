@@ -20,6 +20,9 @@ http://89.248.171.141/ts60/ch1020/index.m3u8
 #EXTINF:0,LDC Lebanon
 http://89.248.171.141/ts60/ch1205/index.m3u8
 
+#EXTINF:0,LBC
+http://www.lbcgroup.tv/livemedia4/jwplayer.flash.swf
+
 
 
 #EXTINF:-1,mayadeen
