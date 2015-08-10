@@ -25,10 +25,11 @@ http://89.248.171.141/ts60/ch1020/index.m3u8?v=1548652116
 
 
 
-#EXTINF:-1,mayadeen
-http://38.99.146.36:7777/AlMayadeen_HD.m3u8
-#EXTINF:-1,Arabic Tv:Russia Alyaum
-http://38.99.146.36:7777/RussiyaAlYaum_HD.m3u8
+#EXTINF:-1,Al Mayadeen
+ rtmp://livestreaming3.itworkscdn.net/mayadeenlive playpath=mayadeen_360p swfUrl=http://www.almayadeen.net/content/jwplayer/jwplayer.flash.swf live=true timeout=15 pageUrl>http://www.almayadeen.net/live
+#EXTINF:-1,Russia Alyaum
+http://odna.octoshape.net/f3f5m2v4/cds/ch3_720p/chunklist.m3u8
+
 #EXTINF:-1,Al Kawthar
 http://live.pgmedia.ir:1935/live-35895787/alkosar-1024.sdp/playlist.m3u8?DVR
 #EXTINF:-1,Al Maaref
