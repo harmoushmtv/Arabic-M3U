@@ -16,12 +16,143 @@ rtsp://livestreaming1.itworkscdn.net/mtvlive/murrtelevision_360p
 #EXTINF:0,Future TV
 http://89.248.171.141/ts60/ch1014/index.m3u8?v=1548652116
 #EXTINF:0,LBC
-http://www.lbcgroup.tv/livemedia4/jwplayer.flash.swf
+http://satyrnsat.dyndns.org:8000/live/ttran77/shlomi19215aycn/36.ts
 #EXTINF:0,LDC Lebanon
 http://adplus.goo.mx/static/flash/pageflip3.swf
 
+http://satyrnsat.dyndns.org:8000/live/ttran77/shlomi19215aycn/11.ts
+
+#EXTINF:0,Abu Dhabi Sports 3
+
+http://satyrnsat.dyndns.org:8000/live/ttran77/shlomi19215aycn/12.ts
+
+#EXTINF:0,Animal Planet HD
+
+http://satyrnsat.dyndns.org:8000/live/ttran77/shlomi19215aycn/14.ts
+
+#EXTINF:0,Discovery HD
+
+http://satyrnsat.dyndns.org:8000/live/ttran77/shlomi19215aycn/15.ts
+
+#EXTINF:0,Nat Geo Wild Europe
+
+http://satyrnsat.dyndns.org:8000/live/ttran77/shlomi19215aycn/16.ts
+
+#EXTINF:0,MBC + Drama HD
+
+http://satyrnsat.dyndns.org:8000/live/ttran77/shlomi19215aycn/17.ts
+
+#EXTINF:0,MBC1 HD
+
+http://satyrnsat.dyndns.org:8000/live/ttran77/shlomi19215aycn/18.ts
+
+#EXTINF:0,MBC2 HD
+
+http://satyrnsat.dyndns.org:8000/live/ttran77/shlomi19215aycn/19.ts
+
+#EXTINF:0,MBC4 HD
+
+http://satyrnsat.dyndns.org:8000/live/ttran77/shlomi19215aycn/20.ts
+
+#EXTINF:0,MBC MAX HD
+
+http://satyrnsat.dyndns.org:8000/live/ttran77/shlomi19215aycn/21.ts
+
+#EXTINF:0,MBC Bollywood
+
+http://satyrnsat.dyndns.org:8000/live/ttran77/shlomi19215aycn/22.ts
+
+#EXTINF:0,MBC Action
+
+http://satyrnsat.dyndns.org:8000/live/ttran77/shlomi19215aycn/23.ts
+
+#EXTINF:0,MBC DRAMA
+
+http://satyrnsat.dyndns.org:8000/live/ttran77/shlomi19215aycn/13.ts
+
+#EXTINF:0,Rotana Cinema HD
+
+http://satyrnsat.dyndns.org:8000/live/ttran77/shlomi19215aycn/29.ts
+
+#EXTINF:0,Rotana Music
+
+http://satyrnsat.dyndns.org:8000/live/ttran77/shlomi19215aycn/34.ts
+
+#EXTINF:0,Rotana Masriya
+
+http://satyrnsat.dyndns.org:8000/live/ttran77/shlomi19215aycn/33.ts
+
+#EXTINF:0,Rotana Khalijeah
+
+http://satyrnsat.dyndns.org:8000/live/ttran77/shlomi19215aycn/32.ts
+
+#EXTINF:0,Rotana Clip
+
+http://satyrnsat.dyndns.org:8000/live/ttran77/shlomi19215aycn/35.ts
+
+#EXTINF:0,Rotana Classic
+
+http://satyrnsat.dyndns.org:8000/live/ttran77/shlomi19215aycn/31.ts
+
+#EXTINF:0,Rotana Aflam
+
+http://satyrnsat.dyndns.org:8000/live/ttran77/shlomi19215aycn/30.ts
+
 #EXTINF:0,LBC
-http://p.jwpcdn.com/6/12/googima.swf
+
+http://satyrnsat.dyndns.org:8000/live/ttran77/shlomi19215aycn/36.ts
+
+#EXTINF:0,Fox Movies
+
+http://satyrnsat.dyndns.org:8000/live/ttran77/shlomi19215aycn/37.ts
+
+#EXTINF:0,Fox
+
+http://satyrnsat.dyndns.org:8000/live/ttran77/shlomi19215aycn/38.ts
+
+#EXTINF:0,art Aflam1
+
+http://satyrnsat.dyndns.org:8000/live/ttran77/shlomi19215aycn/41.ts
+
+#EXTINF:0,art Aflam2
+
+http://satyrnsat.dyndns.org:8000/live/ttran77/shlomi19215aycn/42.ts
+
+#EXTINF:0,art Cinema
+
+http://satyrnsat.dyndns.org:8000/live/ttran77/shlomi19215aycn/43.ts
+
+#EXTINF:0,art Hekayat
+
+http://satyrnsat.dyndns.org:8000/live/ttran77/shlomi19215aycn/44.ts
+
+#EXTINF:0,art Hekayat2
+
+http://satyrnsat.dyndns.org:8000/live/ttran77/shlomi19215aycn/45.ts
+
+#EXTINF:0,OSN-AlYoum
+
+http://satyrnsat.dyndns.org:8000/live/ttran77/shlomi19215aycn/24.ts
+
+#EXTINF:0,OSN-First-Comedy-HD
+
+http://satyrnsat.dyndns.org:8000/live/ttran77/shlomi19215aycn/25.ts
+
+#EXTINF:0,OSN-Movies-Action-HD
+
+http://satyrnsat.dyndns.org:8000/live/ttran77/shlomi19215aycn/39.ts
+
+#EXTINF:0,OSN-Movies-HD
+
+http://satyrnsat.dyndns.org:8000/live/ttran77/shlomi19215aycn/40.ts
+
+#EXTINF:0,test1
+
+http://satyrnsat.dyndns.org:8000/live/ttran77/shlomi19215aycn/27.ts
+
+#EXTINF:0,test2
+
+http://satyrnsat.dyndns.org:8000/live/ttran77/shlomi19215aycn/28.ts
 
 
 
