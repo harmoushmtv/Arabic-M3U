@@ -13,14 +13,8 @@ http://livestreaming.itworkscdn.net/otvmobile/otvlive_1/playlist.m3u8
 rtsp://livestreaming1.itworkscdn.net/mtvlive/murrtelevision_360p
 
 
-#EXTINF:0,Future TV
-http://89.248.171.141/ts60/ch1014/index.m3u8?v=1548652116
-#EXTINF:0,LBC
-rtmp://web.iptv-planet.com:1937/live2 playpath=lbc swfUrl=http://iptv-planet.com/swfs/player.swf  pageUrl=http://iptv-planet.com/embed.php?id=lbc&width=600&height=400
-#EXTINF:-1,LBC
-rtmp://162.212.176.107/lbc_europe//globaltv-lbc_europe.stream
-#EXTINF:-1,LBC
-rtsp://livestreaming.itworkscdn.net/lbclive/lbc_2
+
+
 
 
 
@@ -31,20 +25,14 @@ http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/almayadeen/ls_satlink/b_828.m3u8
 #EXTINF:-1,mayadeen
 rtsp://livestreaming3.itworkscdn.net/mayadeenlive/mayadsat_240p
 
-#EXTINF:-1,Russia Alyaum
-http://odna.octoshape.net/f3f5m2v4/cds/ch3_720p/chunklist.m3u8
+
 
 #EXTINF:-1,Al Kawthar
 http://live.pgmedia.ir:1935/live-35895787/alkosar-1024.sdp/playlist.m3u8?DVR
 #EXTINF:-1,Al Maaref
 http://almaareftv.com:1935/live/1/HasBahCa.m3u8
 
-#EXTINF:-1,sahraa
-rtmp://79.134.137.65/live//Sahraa.stream
-#EXTINF:-1,sahraa2
-rtmp://79.134.137.65:1935/liveS2/Sahraa2.stream
-#EXTINF:-1,sahraa 3
-rtmp://navigatorsjo.com/amjad/amjad.stream
+
 
 #EXTINF:-1,DW Arabia
 http://www.metafilegenerator.de/DWelle/tv-arabia/ios/master.m3u8
