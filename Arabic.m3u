@@ -16,148 +16,21 @@ rtsp://livestreaming1.itworkscdn.net/mtvlive/murrtelevision_360p
 #EXTINF:0,Future TV
 http://89.248.171.141/ts60/ch1014/index.m3u8?v=1548652116
 #EXTINF:0,LBC
-http://satyrnsat.dyndns.org:8000/live/ttran77/shlomi19215aycn/36.ts
-#EXTINF:0,LDC Lebanon
-http://adplus.goo.mx/static/flash/pageflip3.swf
+rtmp://web.iptv-planet.com:1937/live2 playpath=lbc swfUrl=http://iptv-planet.com/swfs/player.swf  pageUrl=http://iptv-planet.com/embed.php?id=lbc&width=600&height=400
+#EXTINF:-1,LBC
+rtmp://162.212.176.107/lbc_europe//globaltv-lbc_europe.stream
+#EXTINF:-1,LBC
+rtsp://livestreaming.itworkscdn.net/lbclive/lbc_2
 
-http://satyrnsat.dyndns.org:8000/live/ttran77/shlomi19215aycn/11.ts
 
-#EXTINF:0,Abu Dhabi Sports 3
 
-http://satyrnsat.dyndns.org:8000/live/ttran77/shlomi19215aycn/12.ts
 
-#EXTINF:0,Animal Planet HD
 
-http://satyrnsat.dyndns.org:8000/live/ttran77/shlomi19215aycn/14.ts
+#EXTINF:-1,mayadeen
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/almayadeen/ls_satlink/b_828.m3u8
+#EXTINF:-1,mayadeen
+rtsp://livestreaming3.itworkscdn.net/mayadeenlive/mayadsat_240p
 
-#EXTINF:0,Discovery HD
-
-http://satyrnsat.dyndns.org:8000/live/ttran77/shlomi19215aycn/15.ts
-
-#EXTINF:0,Nat Geo Wild Europe
-
-http://satyrnsat.dyndns.org:8000/live/ttran77/shlomi19215aycn/16.ts
-
-#EXTINF:0,MBC + Drama HD
-
-http://satyrnsat.dyndns.org:8000/live/ttran77/shlomi19215aycn/17.ts
-
-#EXTINF:0,MBC1 HD
-
-http://satyrnsat.dyndns.org:8000/live/ttran77/shlomi19215aycn/18.ts
-
-#EXTINF:0,MBC2 HD
-
-http://satyrnsat.dyndns.org:8000/live/ttran77/shlomi19215aycn/19.ts
-
-#EXTINF:0,MBC4 HD
-
-http://satyrnsat.dyndns.org:8000/live/ttran77/shlomi19215aycn/20.ts
-
-#EXTINF:0,MBC MAX HD
-
-http://satyrnsat.dyndns.org:8000/live/ttran77/shlomi19215aycn/21.ts
-
-#EXTINF:0,MBC Bollywood
-
-http://satyrnsat.dyndns.org:8000/live/ttran77/shlomi19215aycn/22.ts
-
-#EXTINF:0,MBC Action
-
-http://satyrnsat.dyndns.org:8000/live/ttran77/shlomi19215aycn/23.ts
-
-#EXTINF:0,MBC DRAMA
-
-http://satyrnsat.dyndns.org:8000/live/ttran77/shlomi19215aycn/13.ts
-
-#EXTINF:0,Rotana Cinema HD
-
-http://satyrnsat.dyndns.org:8000/live/ttran77/shlomi19215aycn/29.ts
-
-#EXTINF:0,Rotana Music
-
-http://satyrnsat.dyndns.org:8000/live/ttran77/shlomi19215aycn/34.ts
-
-#EXTINF:0,Rotana Masriya
-
-http://satyrnsat.dyndns.org:8000/live/ttran77/shlomi19215aycn/33.ts
-
-#EXTINF:0,Rotana Khalijeah
-
-http://satyrnsat.dyndns.org:8000/live/ttran77/shlomi19215aycn/32.ts
-
-#EXTINF:0,Rotana Clip
-
-http://satyrnsat.dyndns.org:8000/live/ttran77/shlomi19215aycn/35.ts
-
-#EXTINF:0,Rotana Classic
-
-http://satyrnsat.dyndns.org:8000/live/ttran77/shlomi19215aycn/31.ts
-
-#EXTINF:0,Rotana Aflam
-
-http://satyrnsat.dyndns.org:8000/live/ttran77/shlomi19215aycn/30.ts
-
-#EXTINF:0,LBC
-
-http://satyrnsat.dyndns.org:8000/live/ttran77/shlomi19215aycn/36.ts
-
-#EXTINF:0,Fox Movies
-
-http://satyrnsat.dyndns.org:8000/live/ttran77/shlomi19215aycn/37.ts
-
-#EXTINF:0,Fox
-
-http://satyrnsat.dyndns.org:8000/live/ttran77/shlomi19215aycn/38.ts
-
-#EXTINF:0,art Aflam1
-
-http://satyrnsat.dyndns.org:8000/live/ttran77/shlomi19215aycn/41.ts
-
-#EXTINF:0,art Aflam2
-
-http://satyrnsat.dyndns.org:8000/live/ttran77/shlomi19215aycn/42.ts
-
-#EXTINF:0,art Cinema
-
-http://satyrnsat.dyndns.org:8000/live/ttran77/shlomi19215aycn/43.ts
-
-#EXTINF:0,art Hekayat
-
-http://satyrnsat.dyndns.org:8000/live/ttran77/shlomi19215aycn/44.ts
-
-#EXTINF:0,art Hekayat2
-
-http://satyrnsat.dyndns.org:8000/live/ttran77/shlomi19215aycn/45.ts
-
-#EXTINF:0,OSN-AlYoum
-
-http://satyrnsat.dyndns.org:8000/live/ttran77/shlomi19215aycn/24.ts
-
-#EXTINF:0,OSN-First-Comedy-HD
-
-http://satyrnsat.dyndns.org:8000/live/ttran77/shlomi19215aycn/25.ts
-
-#EXTINF:0,OSN-Movies-Action-HD
-
-http://satyrnsat.dyndns.org:8000/live/ttran77/shlomi19215aycn/39.ts
-
-#EXTINF:0,OSN-Movies-HD
-
-http://satyrnsat.dyndns.org:8000/live/ttran77/shlomi19215aycn/40.ts
-
-#EXTINF:0,test1
-
-http://satyrnsat.dyndns.org:8000/live/ttran77/shlomi19215aycn/27.ts
-
-#EXTINF:0,test2
-
-http://satyrnsat.dyndns.org:8000/live/ttran77/shlomi19215aycn/28.ts
-
-
-
-#EXTINF:-1,Al Mayadeen
- rtmp://livestreaming3.itworkscdn.net/mayadeenlive playpath=mayadeen_360p swfUrl=http://www.almayadeen.net/content/jwplayer/jwplayer.flash.swf live=true timeout=15 pageUrl>http://www.almayadeen.net/live
 #EXTINF:-1,Russia Alyaum
 http://odna.octoshape.net/f3f5m2v4/cds/ch3_720p/chunklist.m3u8
 
@@ -165,6 +38,13 @@ http://odna.octoshape.net/f3f5m2v4/cds/ch3_720p/chunklist.m3u8
 http://live.pgmedia.ir:1935/live-35895787/alkosar-1024.sdp/playlist.m3u8?DVR
 #EXTINF:-1,Al Maaref
 http://almaareftv.com:1935/live/1/HasBahCa.m3u8
+
+#EXTINF:-1,sahraa
+rtmp://79.134.137.65/live//Sahraa.stream
+#EXTINF:-1,sahraa2
+rtmp://79.134.137.65:1935/liveS2/Sahraa2.stream
+#EXTINF:-1,sahraa 3
+rtmp://navigatorsjo.com/amjad/amjad.stream
 
 #EXTINF:-1,DW Arabia
 http://www.metafilegenerator.de/DWelle/tv-arabia/ios/master.m3u8
