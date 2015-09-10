@@ -16,12 +16,12 @@ rtsp://livestreaming1.itworkscdn.net/mtvlive/murrtelevision_360p
 #EXTINF:0,Future TV
 http://89.248.171.141/ts60/ch1014/index.m3u8?v=1548652116
 #EXTINF:0,LBC
-http://89.248.171.141/ts60/ch1020/index.m3u8
+http://www.lbcgroup.tv/livemedia4/jwplayer.flash.swf
 #EXTINF:0,LDC Lebanon
-http://89.248.171.141/ts60/ch1205/index.m3u8?v=1548652116
+http://adplus.goo.mx/static/flash/pageflip3.swf
 
 #EXTINF:0,LBC
-http://89.248.171.141/ts60/ch1020/index.m3u8?v=1548652116
+http://p.jwpcdn.com/6/12/googima.swf
 
 
 
