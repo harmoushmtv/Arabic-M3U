@@ -19,6 +19,10 @@ http://www.lbcgroup.tv/livemedia4/jwplayer.flash.swf
 
 #EXTINF:-1,Future
 rtsp://livestreaming.itworkscdn.net:554/ftvlive/ftvlive
+#EXTINF:-1,Tele Liban
+Khttp://www.teledunet.com/mobile/player.swf?channel=lebanon
+#EXTINF:-1,Tele Liban
+http://www.teledunet.com/mobile/player.swf?channel=lebanon_tv&user=&token=0
 
 
 
