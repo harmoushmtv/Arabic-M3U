@@ -13,16 +13,11 @@ http://livestreaming.itworkscdn.net/otvmobile/otvlive_1/playlist.m3u8
 rtsp://livestreaming1.itworkscdn.net/mtvlive/murrtelevision_360p
 #EXTINF:-1,Russia_alyaum
 rtmp://127.0.0.1:1935/live/russia_alyaum
-#EXTINF:-1,Future
-rtmp://trans03.itworkscdn.com:1935/ftvpublish/_definst_/ftvlive
+
 
 #EXTINF:-1,Future
 rtsp://livestreaming.itworkscdn.net:554/ftvlive/ftvlive
 
-#EXTINF:-1,Future
-rtsp://livestreaming.itworkscdn.net:554/ftvlive/ftvlive
-#EXTINF:-1,Future
-rtsp://livestreaming.itworkscdn.net:554/ftvlive/ftvlive/trackID=1;seq=1;rtptime=1974305572,url=rtsp://livestreaming.itworkscdn.net:554/ftvlive/ftvlive/trackID=2;seq=1;rtptime=870893802
 
 
 
