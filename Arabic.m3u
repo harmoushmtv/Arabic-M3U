@@ -11,8 +11,10 @@ http://livestreaming.itworkscdn.net/aljadeedlive/aljadeed_360p/playlist.m3u8
 http://livestreaming.itworkscdn.net/otvmobile/otvlive_1/playlist.m3u8
 #EXTINF:-1,MTV Liban
 rtsp://livestreaming1.itworkscdn.net/mtvlive/murrtelevision_360p
-#EXTINF:-1,Russia_alyaum
-rtmp://127.0.0.1:1935/live/russia_alyaum
+#EXTINF:-1,Al Alam
+http://iptv-planet.com/swfs/player.swf
+#EXTINF:-1,Al Alam2
+rtmp://web.iptv-planet.com:1937/live
 
 
 #EXTINF:-1,Future
