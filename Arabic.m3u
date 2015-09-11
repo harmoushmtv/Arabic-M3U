@@ -12,6 +12,12 @@ http://livestreaming.itworkscdn.net/otvmobile/otvlive_1/playlist.m3u8
 #EXTINF:-1,MTV Liban
 rtsp://livestreaming1.itworkscdn.net/mtvlive/murrtelevision_360p
 
+#EXTINF:-1,Rotana Cinema
+http://vox-static.liverail.com/swf/v4/admanager.swf?LR_PUBLISHER_ID=99443&LR_TITLE&LR_VIDEO_ID&LR_AUTOPLAY=1
+#EXTINF:-1,Rotana Cinema
+http://vox-static.liverail.com/swf/v4/admanager.swf?LR_PUBLISHER_ID=99447&LR_TITLE&LR_VIDEO_ID&LR_AUTOPLAY=1
+#EXTINF:-1,Rotana Cinema
+http://redir.adap.tv/redir/client/VPAIDClient.swf?adTagUrl=http%3A%2F%2Fads.adaptv.advertising.com%2Fa%2Fh%2FfUUYX443fr208WQwxvCQOKaHFikAF0LOm8KEpBpnkKVA_DnYD7KaRyMPJ8P6iRAUoOt0lqLFswM%3D%3Fcb%3D1441962411%26pageUrl%3Dhttp%253A%252F%252Fwww.worldiptv.club%252Farabic%252Fchannel%252FRotana%252BAflam%26description%3DVIDEO_DESCRIPTION%26duration%3DVIDEO_DURATION%26id%3DVIDEO_ID%26keywords%3DVIDEO_KEYWORDS%26title%3DVIDEO_TITLE%26url%3DVIDEO_URL%26eov%3Deov%26a.cluster%3D0%26a.pvt%3D0&companionId=&cpmPassback=&placementId=432315&orgId=8656&injectCompanionDummy=&pauseOnClick=&d.vw=&d.app=
 
 
 
