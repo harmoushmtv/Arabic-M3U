@@ -11,13 +11,23 @@ http://livestreaming.itworkscdn.net/aljadeedlive/aljadeed_360p/playlist.m3u8
 http://livestreaming.itworkscdn.net/otvmobile/otvlive_1/playlist.m3u8
 #EXTINF:-1,MTV Liban
 rtsp://livestreaming1.itworkscdn.net/mtvlive/murrtelevision_360p
+#EXTINF:-1,FUTURE TV
+http://46.101.9.226/60/ch1014/index.m3u8
 
-#EXTINF:-1,Rotana Cinema
-http://www.filmon.tv/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf?v=1.8.5
-#EXTINF:-1,Rotana Cinema
-http://imasdk.googleapis.com/flash/sdkloader/adsapi_3.swf
-#EXTINF:-1,Rotana Cinema
-http://redir.adap.tv/redir/client/VPAIDClient.swf?adTagUrl=http%3A%2F%2Fads.adaptv.advertising.com%2Fa%2Fh%2Fp0TJflvRWI3RS6eukwBAoOG5tWEqj254C%2BLcxQOtSbU%3D%3Fcb%3D1258506%26pageUrl%3DEMBEDDING_PAGE_URL%26description%3DVIDEO_DESCRIPTION%26duration%3DVIDEO_DURATION%26id%3DVIDEO_ID%26keywords%3DVIDEO_KEYWORDS%26title%3DVIDEO_TITLE%26url%3DVIDEO_URL%26eov%3Deov%26adap_uid%3D6255717405226077708%26a.cluster%3D0%26a.pvt%3D0&companionId=&cpmPassback=&placementId=365993&orgId=6713&injectCompanionDummy=&pauseOnClick=&d.vw=&d.app=
+#EXTINF:-1,ROTANA CINEMA
+http://46.101.9.226/60/ch1145/index.m3u8
+#EXTINF:-1,ROTANA CINEMA
+http://46.101.9.226/60/ch1143/index.m3u8
+#EXTINF:-1,ROTANA CLASSIC
+http://46.101.9.226/60/ch1141/index.m3u8
+#EXTINF:-1,ROTANA CLIP
+http://46.101.9.226/60/ch1138/index.m3u8
+#EXTINF:-1,ROTANA KHALEJIA
+http://46.101.9.226/60/ch1140/index.m3u8
+#EXTINF:-1,ROTANA MASREYA
+http://46.101.9.226/60/ch1142/index.m3u8
+#EXTINF:-1,ROTANA MUSICA
+http://46.101.9.226/60/ch1137/index.m3u8
 
 
 
@@ -31,6 +41,8 @@ http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/almayadeen/ls_satlink/b_828.m3u8
 #EXTINF:-1,mayadeen
 rtsp://livestreaming3.itworkscdn.net/mayadeenlive/mayadsat_240p
 
+#EXTINF:-1,Russia Alyaum
+http://odna.octoshape.net/f3f5m2v4/cds/ch3_720p/chunklist.m3u8
 
 
 #EXTINF:-1,Al Kawthar
