@@ -11,10 +11,10 @@ http://livestreaming.itworkscdn.net/aljadeedlive/aljadeed_360p/playlist.m3u8
 http://livestreaming.itworkscdn.net/otvmobile/otvlive_1/playlist.m3u8
 #EXTINF:-1,MTV Liban
 rtsp://livestreaming1.itworkscdn.net/mtvlive/murrtelevision_360p
-#EXTINF:-1,Al Alam
-http://iptv-planet.com/swfs/player.swf
-#EXTINF:-1,Al Alam2
-rtmp://web.iptv-planet.com:1937/live
+#EXTINF:-1,mayadeen kodi
+rtsp://livestreaming3.itworkscdn.net:554/mayadeenlive/mayadsat_240p
+#EXTINF:-1,LBC Europ
+http://www.lbcgroup.tv/livemedia4/jwplayer.flash.swf
 
 
 #EXTINF:-1,Future
