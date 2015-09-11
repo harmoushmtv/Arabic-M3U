@@ -13,8 +13,7 @@ http://livestreaming.itworkscdn.net/otvmobile/otvlive_1/playlist.m3u8
 rtsp://livestreaming1.itworkscdn.net/mtvlive/murrtelevision_360p
 #EXTINF:-1,mayadeen kodi
 rtsp://livestreaming3.itworkscdn.net:554/mayadeenlive/mayadsat_240p
-#EXTINF:-1,LBC Europ
-http://www.lbcgroup.tv/livemedia4/jwplayer.flash.swf
+
 
 
 #EXTINF:-1,Future
