@@ -5,10 +5,7 @@ EXTM3U
 http://38.96.148.199:1935/liveedge1/livestream_720p/chunklist_w768131600.m3u8
 #EXTINF:-1,NBN
 rtmp://nbn.mangomolo.com:1935/nbn/_definst_mp4:mpegts.stream_360p
-#EXTINF:-1,Aljadid
-rtsp://livestreaming.itworkscdn.net:554/aljadeedlive/aljadeed_360p
-#EXTINF:-1,Aljadid
-rtmp://trans01.itworkscdn.com:1935/aljadeedpublish/_definst_/aljadeed_360p
+
 #EXTINF:-1,Aljadid
 http://livestreaming.itworkscdn.net/aljadeedlive/aljadeed_360p/playlist.m3u8
 #EXTINF:-1,OTV
