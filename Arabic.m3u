@@ -6,9 +6,9 @@ http://38.96.148.199:1935/liveedge1/livestream_720p/chunklist_w768131600.m3u8
 #EXTINF:-1,NBN
 rtmp://nbn.mangomolo.com:1935/nbn/_definst_mp4:mpegts.stream_360p
 #EXTINF:-1,Aljadid
-http://38.99.146.37:7777/AlJadeed_HD.m3u8?user=HTTP_Proxy_ZIXI-37_1209712&session=118d5f674aefb556d2fa6bbc5ad5964cf0bc400f117c02176ced42964d1b6e60&hlsid=HLS_149700
+rtsp://livestreaming.itworkscdn.net:554/aljadeedlive/aljadeed_360p
 #EXTINF:-1,Aljadid
-rtmp://2.109.65.242/live/rinalivetv120811?s=3533ec542b768ab06a2b706b7e142b7b&t=1442073997
+rtmp://trans01.itworkscdn.com:1935/aljadeedpublish/_definst_/aljadeed_360p
 #EXTINF:-1,Aljadid
 http://livestreaming.itworkscdn.net/aljadeedlive/aljadeed_360p/playlist.m3u8
 #EXTINF:-1,OTV
