@@ -6,7 +6,7 @@ http://38.96.148.199:1935/liveedge1/livestream_720p/chunklist_w768131600.m3u8
 #EXTINF:-1,NBN
 rtmp://nbn.mangomolo.com:1935/nbn/_definst_mp4:mpegts.stream_360p
 #EXTINF:-1,Aljadid
-rtmp://2.109.65.242/live/rinalivetv120811?s=c98a38d262106c147ba93d6e5879fdc5&t=1442047881
+http://ssl.p.jwpcdn.com/player/v/7.0.3/jwplayer.flash.swf
 #EXTINF:-1,Aljadid
 http://livestreaming.itworkscdn.net/aljadeedlive/aljadeed_360p/playlist.m3u8
 #EXTINF:-1,OTV
