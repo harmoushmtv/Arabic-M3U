@@ -12,6 +12,9 @@ http://livestreaming.itworkscdn.net/aljadeedlive/aljadeed_360p/playlist.m3u8
 http://livestreaming.itworkscdn.net/otvmobile/otvlive_1/playlist.m3u8
 #EXTINF:-1,MTV Liban
 rtsp://livestreaming1.itworkscdn.net/mtvlive/murrtelevision_360p
+#EXTINF:-1,lbc
+rtsp://svs.itworkscdn.net/lbcgrouplive/lbc_2?habazlamendtime=1442216815&habazlamwowzastarttime=0&habazlamwowzastcustom=1442173619&habazlamhash=p_ein3jyfG0878TIKFlWCC0KI5LBj93GHBB-EOld8bw=
+
 
 
 
