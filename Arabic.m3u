@@ -38,11 +38,16 @@ http://www.metafilegenerator.de/DWelle/tv-arabia/ios/master.m3u8
 http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kStream.m3u8
 
 
-#EXTINF:-1,Rotana Khaligi http://178.33.88.129:888/udp/239.102.0.189:1234 
-#EXTINF:-1,Rotana Music http://178.33.88.129:888/udp/239.102.0.186:1234 
-#EXTINF:-1,Rotana Masria http://178.33.88.129:888/udp/239.102.0.185:1234 
-#EXTINF:-1,Rotana Classic http://178.33.88.129:888/udp/239.102.0.187:1234 
-#EXTINF:-1,Rotana Cinema http://178.33.88.129:888/udp/239.102.0.188:1234
+#EXTINF:-1,Rotana Khaligi 
+http://178.33.88.129:888/udp/239.102.0.189:1234 
+#EXTINF:-1,Rotana Music 
+http://178.33.88.129:888/udp/239.102.0.186:1234 
+#EXTINF:-1,Rotana Masria 
+http://178.33.88.129:888/udp/239.102.0.185:1234 
+#EXTINF:-1,Rotana Classic 
+http://178.33.88.129:888/udp/239.102.0.187:1234 
+#EXTINF:-1,Rotana Cinema 
+http://178.33.88.129:888/udp/239.102.0.188:1234
 
 #EXTINF:-1,Syria
 http://82.137.248.16:1935/Sat/SatLive2/HasBahCa.m3u8
