@@ -38,6 +38,9 @@ http://www.metafilegenerator.de/DWelle/tv-arabia/ios/master.m3u8
 http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kStream.m3u8
 
 
+
+mo2akatan
+
 #EXTINF:-1,Rotana Khaligi 
 http://178.33.88.129:888/udp/239.102.0.189:1234 
 #EXTINF:-1,Rotana Music 
@@ -48,6 +51,33 @@ http://178.33.88.129:888/udp/239.102.0.185:1234
 http://178.33.88.129:888/udp/239.102.0.187:1234 
 #EXTINF:-1,Rotana Cinema 
 http://178.33.88.129:888/udp/239.102.0.188:1234
+
+#EXTINF:1,Al nahar 
+rtmp://stream138.nstream.tv:2095/AlNaharTVSChannel/nahar_tvprofile2.stream 
+
+#EXTINF:1,Al nahar youm 
+rtmp://stream138.nstream.tv:2095/AlNaharTVSChannel/nahar_youmprofile2.stream 
+
+#EXTINF:1,Al Nahar Drama 
+rtmp://stream138.nstream.tv:2095/AlNaharTVSChannel/nahar_dramaprofile2.stream 
+
+#EXTINF:1,Al Nahar sport 
+rtmp://stream138.nstream.tv:2095/AlNaharTVSChannel/nahar_sportprofile2.stream
+
+#EXTINF:-1,El sharq 
+http://livestream-f.akamaihd.net/i/13371912_4018211_92c46fb1_1@305482/index_446_av-p.m3u8?sd=10&dw=100&rebase=on
+
+
+
+
+
+
+
+
+
+
+
+
 
 #EXTINF:-1,Syria
 http://82.137.248.16:1935/Sat/SatLive2/HasBahCa.m3u8
@@ -504,23 +534,41 @@ http://flv.alarab.net:8080//flv/83155.flv?start=0
 #EXTINF:-1 group-title="Sports",=========== Sports =======================
 
 EXTM3U
-#EXTINF:0,beIN Sports 2 HD (FR)
-http://178.33.88.129:888/udp/239.102.0.2:1234
-#EXTINF:0,Idman TV (AZ)
-http://149.255.152.70:80/idman/index.m3u8
-#EXTINF:0,NTV+ Futbol 2 Op.01
-http://fr456.edem.tv/iptv/ESPQ9DQML6R72N/530/index.m3u8
-#EXTINF:0,NTV+ Futbol 2 Op.02
-http://s2.edem.tv/iptv/TVWR32RK25QRUC/530/index.m3u8
-#EXTINF:0,NTV+ Futbol 2 Op.03
-http://en356.edem.tv/iptv/8C6N6AXCBRDTG3/530/index.m3u8
-#EXTINF:0,NTV+ Futbol 2 Op.04
-http://fe-nw.svc.iptv.rt.ru/hls/CH_C05_FOOTBALL2/variant.m3u8?version=2
-#EXTINF:0,NTV+ Futbol 2 Op.05
-http://fe-nw.svc.iptv.rt.ru/hls/CH_C02_HDFOOTBALL2/variant.m3u8?version=2
-#EXTINF:0,NTV+ Futbol 2 Op.06
-http://iptv6.zargacum.net/iptv/C3E78FQF6K/530/index.m3u8
-#EXTINF:0,Sky Sports 3 (UK) 
-http://tinyurl.com/ole7zp4
-#EXTINF:0,Sport Klub 1 (HR)
-http://tinyurl.com/n9s5pmy
+#EXTINF:-1,BEIN SPORT AlKASS 1 HD
+http://zizo-rtmp.ddns.net:8000/live/ferreira/ferreira/1945.ts
+#EXTINF:-1,BEIN SPORT AlKASS 2 HD
+http://zizo-rtmp.ddns.net:8000/live/ferreira/ferreira/1944.ts
+#EXTINF:-1,BEIN SPORT AlKASS 3 HD
+http://zizo-rtmp.ddns.net:8000/live/ferreira/ferreira/1943.ts
+#EXTINF:-1,BEIN SPORT AlKASS 4 HD
+http://zizo-rtmp.ddns.net:8000/live/ferreira/ferreira/1942.ts
+#EXTINF:-1,BEIN SPORT HD1
+http://zizo-rtmp.ddns.net:8000/live/ferreira/ferreira/363.ts
+#EXTINF:-1,BEIN SPORT HD2
+http://zizo-rtmp.ddns.net:8000/live/ferreira/ferreira/364.ts
+#EXTINF:-1,BEIN SPORT HD3
+http://zizo-rtmp.ddns.net:8000/live/ferreira/ferreira/365.ts
+#EXTINF:-1,BEIN SPORT HD4
+http://zizo-rtmp.ddns.net:8000/live/ferreira/ferreira/366.ts
+#EXTINF:-1,BEIN SPORT HD5
+http://zizo-rtmp.ddns.net:8000/live/ferreira/ferreira/367.ts
+#EXTINF:-1,BEIN SPORT HD6
+http://zizo-rtmp.ddns.net:8000/live/ferreira/ferreira/368.ts
+#EXTINF:-1,BEIN SPORT HD7
+http://zizo-rtmp.ddns.net:8000/live/ferreira/ferreira/369.ts
+#EXTINF:-1,BEIN SPORT HD8
+http://zizo-rtmp.ddns.net:8000/live/ferreira/ferreira/370.ts
+#EXTINF:-1,BEIN SPORT HD9
+http://zizo-rtmp.ddns.net:8000/live/ferreira/ferreira/371.ts
+#EXTINF:-1,BEIN SPORT HD10
+http://zizo-rtmp.ddns.net:8000/live/ferreira/ferreira/372.ts
+#EXTINF:-1,BEIN SPORT HD11
+http://zizo-rtmp.ddns.net:8000/live/ferreira/ferreira/373.ts
+#EXTINF:-1,BEIN SPORT HD12
+http://zizo-rtmp.ddns.net:8000/live/ferreira/ferreira/374.ts
+#EXTINF:-1,BEIN SPORT HD13
+http://zizo-rtmp.ddns.net:8000/live/ferreira/ferreira/375.ts
+#EXTINF:-1,BEIN SPORT HD14
+http://zizo-rtmp.ddns.net:8000/live/ferreira/ferreira/376.ts
+#EXTINF:-1,BEIN SPORT HD15
+http://zizo-rtmp.ddns.net:8000/live/ferreira/ferreira/377.ts
