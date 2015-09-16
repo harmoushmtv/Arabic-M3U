@@ -15,10 +15,17 @@ rtsp://livestreaming1.itworkscdn.net/mtvlive/murrtelevision_360p
 
 
 #EXTINF:-1,Future
-http://2.109.65.242:1936/rina/rinaand898812/playlist.m3u8
+rtmp://2.109.65.242:1936/rina/rinaand898812
 
 #EXTINF:-1,LDC
 rtmp://2.109.65.242:1936/rina/rinaand898814
+
+#EXTINF:-1,Al Jadeed
+rtmp://2.109.65.242:1936/rina/rinaand898817
+
+#EXTINF:-1,MBC 1
+rtmp://2.109.65.242:1936/rina/rinaand898855
+
 
 
 
