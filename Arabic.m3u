@@ -15,7 +15,7 @@ rtsp://livestreaming1.itworkscdn.net/mtvlive/murrtelevision_360p
 
 
 #EXTINF:-1,Future
-rtmp://2.109.65.242:1936/rina/rinaand898812
+http://2.109.65.242:1936/rina/rinaand898812/playlist.m3u8
 
 #EXTINF:-1,LDC
 rtmp://2.109.65.242:1936/rina/rinaand898814
