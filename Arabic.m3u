@@ -13,8 +13,8 @@ http://livestreaming.itworkscdn.net/otvmobile/otvlive_1/playlist.m3u8
 #EXTINF:-1,MTV Liban
 rtsp://livestreaming1.itworkscdn.net/mtvlive/murrtelevision_360p
 
-#EXTINF:-1,Tele Liban
-rtmp://2.109.65.242:1936/rina/rinaand898817
+#EXTINF:-1,Almanar2
+rtmp://2.109.65.242:1936/rina/rinaand898810
 
 
 
