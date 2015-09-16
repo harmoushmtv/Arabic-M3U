@@ -15,17 +15,7 @@ rtsp://livestreaming1.itworkscdn.net/mtvlive/murrtelevision_360p
 
 
 
-#EXTINF:-1,Future
-rtmp://2.109.65.242:1936/rina/rinaand898812
 
-#EXTINF:-1,LDC
-rtmp://2.109.65.242:1936/rina/rinaand898814
-
-#EXTINF:-1,Al Jadeed
-rtmp://2.109.65.242:1936/rina/rinaand898817
-
-#EXTINF:-1,MBC 1
-rtmp://2.109.65.242:1936/rina/rinaand898855
 
 
 
@@ -62,8 +52,7 @@ http://178.33.88.129:888/udp/239.102.0.186:1234
 http://178.33.88.129:888/udp/239.102.0.185:1234 
 #EXTINF:-1,Rotana Classic 
 http://178.33.88.129:888/udp/239.102.0.187:1234 
-#EXTINF:-1,MBC DRAMA
-rtmp://2.109.65.242:1936/rina/rinaand898811
+
 
 
 
