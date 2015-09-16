@@ -47,8 +47,7 @@ http://178.33.88.129:888/udp/239.102.0.186:1234
 http://178.33.88.129:888/udp/239.102.0.185:1234 
 #EXTINF:-1,Rotana Classic 
 http://178.33.88.129:888/udp/239.102.0.187:1234 
-#EXTINF:-1,Rotana Cinema 
-http://178.33.88.129:888/udp/239.102.0.188:1234
+
 
 
 
@@ -518,41 +517,33 @@ http://flv.alarab.net:8080//flv/83155.flv?start=0
 #EXTINF:-1 group-title="Sports",=========== Sports =======================
 
 EXTM3U
-#EXTINF:-1,BEIN SPORT AlKASS 1 HD
-http://zizo-rtmp.ddns.net:8000/live/ferreira/ferreira/1945.ts
-#EXTINF:-1,BEIN SPORT AlKASS 2 HD
-http://zizo-rtmp.ddns.net:8000/live/ferreira/ferreira/1944.ts
-#EXTINF:-1,BEIN SPORT AlKASS 3 HD
-http://zizo-rtmp.ddns.net:8000/live/ferreira/ferreira/1943.ts
-#EXTINF:-1,BEIN SPORT AlKASS 4 HD
-http://zizo-rtmp.ddns.net:8000/live/ferreira/ferreira/1942.ts
-#EXTINF:-1,BEIN SPORT HD1
-http://zizo-rtmp.ddns.net:8000/live/ferreira/ferreira/363.ts
-#EXTINF:-1,BEIN SPORT HD2
-http://zizo-rtmp.ddns.net:8000/live/ferreira/ferreira/364.ts
-#EXTINF:-1,BEIN SPORT HD3
-http://zizo-rtmp.ddns.net:8000/live/ferreira/ferreira/365.ts
-#EXTINF:-1,BEIN SPORT HD4
-http://zizo-rtmp.ddns.net:8000/live/ferreira/ferreira/366.ts
-#EXTINF:-1,BEIN SPORT HD5
-http://zizo-rtmp.ddns.net:8000/live/ferreira/ferreira/367.ts
-#EXTINF:-1,BEIN SPORT HD6
-http://zizo-rtmp.ddns.net:8000/live/ferreira/ferreira/368.ts
-#EXTINF:-1,BEIN SPORT HD7
-http://zizo-rtmp.ddns.net:8000/live/ferreira/ferreira/369.ts
-#EXTINF:-1,BEIN SPORT HD8
-http://zizo-rtmp.ddns.net:8000/live/ferreira/ferreira/370.ts
-#EXTINF:-1,BEIN SPORT HD9
-http://zizo-rtmp.ddns.net:8000/live/ferreira/ferreira/371.ts
-#EXTINF:-1,BEIN SPORT HD10
-http://zizo-rtmp.ddns.net:8000/live/ferreira/ferreira/372.ts
-#EXTINF:-1,BEIN SPORT HD11
-http://zizo-rtmp.ddns.net:8000/live/ferreira/ferreira/373.ts
-#EXTINF:-1,BEIN SPORT HD12
-http://zizo-rtmp.ddns.net:8000/live/ferreira/ferreira/374.ts
-#EXTINF:-1,BEIN SPORT HD13
-http://zizo-rtmp.ddns.net:8000/live/ferreira/ferreira/375.ts
-#EXTINF:-1,BEIN SPORT HD14
-http://zizo-rtmp.ddns.net:8000/live/ferreira/ferreira/376.ts
-#EXTINF:-1,BEIN SPORT HD15
-http://zizo-rtmp.ddns.net:8000/live/ferreira/ferreira/377.ts
+#EXTINF:0,AR: beINSport 9 HD
+http://bit.ly/1LfvATp
+#EXTINF:0,AR: beINSport 8 HD
+http://bit.ly/1Od7bzy
+#EXTINF:0,AR: beINSport 7 HD
+http://bit.ly/1W1d58d
+#EXTINF:0,AR: beINSport 6 HD
+http://bit.ly/1Y9YY2C
+#EXTINF:0,AR: beINSport 5 HD
+http://bit.ly/1QE9fiy
+#EXTINF:0,AR: beINSport 4 HD
+http://bit.ly/1gpvcVk
+#EXTINF:0,AR: beINSport 3 HD
+http://bit.ly/1KeugxK
+#EXTINF:0,AR: beINSport 2 HD
+http://bit.ly/1KluFvv
+#EXTINF:0,AR: beINSport 15 HD
+http://bit.ly/1FLqWpS
+#EXTINF:0,AR: beINSport 14 HD
+http://bit.ly/1QE9qtZ
+#EXTINF:0,AR: beINSport 13 HD
+http://bit.ly/1LfvRWc
+#EXTINF:0,AR: beINSport 12 HD
+http://bit.ly/1iftIhL
+#EXTINF:0,AR: beINSport 11 HD
+http://bit.ly/1KoIqhj
+#EXTINF:0,AR: beINSport 10 HD
+http://bit.ly/1iftJlO
+#EXTINF:0,AR: beINSport 1 HD
+http://bit.ly/1KoIrlo
