@@ -10,20 +10,14 @@ rtmp://nbn.mangomolo.com:1935/nbn/_definst_mp4:mpegts.stream_360p
 http://livestreaming.itworkscdn.net/aljadeedlive/aljadeed_360p/playlist.m3u8
 #EXTINF:-1,OTV
 http://livestreaming.itworkscdn.net/otvmobile/otvlive_1/playlist.m3u8
-#EXTINF:-1,OTV
- http://ovh.dynns.com:1935/arabic/MTVLebanon/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yMS8yMDE1IDQ6MDY6MTIgUE0maGFzaF92YWx1ZT1QNmR0K0o4L3Y2akNPVTZnZk5VeUl3PT0mdmFsaWRtaW51dGVzPTI=
 
-#EXTINF:-1,Futre
- http://ovh.dynns.com:1935/arabic/FutureTV/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yMS8yMDE1IDQ6MDQ6MTMgUE0maGFzaF92YWx1ZT1sZk90N3lWMG9BeXZ0WUhCSnM1TWRRPT0mdmFsaWRtaW51dGVzPTI=
 
-#EXTINF:-1,LBC SAT
+
+
+#EXTINF:-1,MTV
 rtsp://livestreaming1.itworkscdn.net/mtvlive/murrtelevision_360p
 
-#EXTINF:-1,LDC
- http://ovh.dynns.com:1935/arabic/LDC/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yMS8yMDE1IDQ6MDU6MjIgUE0maGFzaF92YWx1ZT1lT0hOLzY2QW80YkpCb0RWU0hUaXFnPT0mdmFsaWRtaW51dGVzPTI=
 
-#EXTINF:-1,Tele Liban
- http://ovh.dynns.com:1935/arabic/LebanonTV/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yMS8yMDE1IDQ6MDU6NDUgUE0maGFzaF92YWx1ZT1qNmpvRmJMRXFzeWUvNG1LVkc5b0FBPT0mdmFsaWRtaW51dGVzPTI=
 
 
 
@@ -535,10 +529,20 @@ http://flv.alarab.net:8080//flv/83155.flv?start=0
 
 
 
+#EXTINF:-1,OTV
+ http://ovh.dynns.com:1935/arabic/MTVLebanon/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yMS8yMDE1IDQ6MDY6MTIgUE0maGFzaF92YWx1ZT1QNmR0K0o4L3Y2akNPVTZnZk5VeUl3PT0mdmFsaWRtaW51dGVzPTI=
 
 
+
+#EXTINF:-1,Futre
+ http://ovh.dynns.com:1935/arabic/FutureTV/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yMS8yMDE1IDQ6MDQ6MTMgUE0maGFzaF92YWx1ZT1sZk90N3lWMG9BeXZ0WUhCSnM1TWRRPT0mdmFsaWRtaW51dGVzPTI=
+
  
- 
+ #EXTINF:-1,LDC
+ http://ovh.dynns.com:1935/arabic/LDC/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yMS8yMDE1IDQ6MDU6MjIgUE0maGFzaF92YWx1ZT1lT0hOLzY2QW80YkpCb0RWU0hUaXFnPT0mdmFsaWRtaW51dGVzPTI=
+
+#EXTINF:-1,Tele Liban
+ http://ovh.dynns.com:1935/arabic/LebanonTV/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yMS8yMDE1IDQ6MDU6NDUgUE0maGFzaF92YWx1ZT1qNmpvRmJMRXFzeWUvNG1LVkc5b0FBPT0mdmFsaWRtaW51dGVzPTI=
  
  
  
