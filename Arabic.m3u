@@ -528,13 +528,12 @@ http://flv.alarab.net:8080//flv/83155.flv?start=0
 
 
 #EXTINF:-1,OTV
- http://ovh.dynns.com:1935/arabic/MTVLebanon/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yMS8yMDE1IDQ6MDY6MTIgUE0maGFzaF92YWx1ZT1QNmR0K0o4L3Y2akNPVTZnZk5VeUl3PT0mdmFsaWRtaW51dGVzPTI=
+ http://ovh.dynns.com:1935/arabic/MTVLebanon/playlist.m3u8
 
 
 
 #EXTINF:-1,Futre
- http://ovh.dynns.com:1935/arabic/FutureTV/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yMS8yMDE1IDQ6MDQ6MTMgUE0maGFzaF92YWx1ZT1sZk90N3lWMG9BeXZ0WUhCSnM1TWRRPT0mdmFsaWRtaW51dGVzPTI=
-
+ http://ovh.dynns.com:1935/arabic/FutureTV/playlist.m3u8
  
  #EXTINF:-1,LDC
  http://ovh.dynns.com:1935/arabic/LDC/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yMS8yMDE1IDQ6MDU6MjIgUE0maGFzaF92YWx1ZT1lT0hOLzY2QW80YkpCb0RWU0hUaXFnPT0mdmFsaWRtaW51dGVzPTI=
