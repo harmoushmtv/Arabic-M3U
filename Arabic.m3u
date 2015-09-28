@@ -44,6 +44,22 @@ http://www.metafilegenerator.de/DWelle/tv-arabia/ios/master.m3u8
 #EXTINF:-1,Aljazeera Doc
 http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kStream.m3u8
 
+#EXTINF:-1,Funoon TV
+http://wpc.C56B.edgecastcdn.net/hls-live/20C56B/default/ThompsanECWTV/tsecwatanfunoonmed.m3u8
+#EXTINF:-1, Dubai TV
+http://dmi.mangomolo.com:1935/dubaitv/smil:dubaitv.smil/playlist.m3u8
+#EXTINF:-1, Dubai ONE
+http://dmi.mangomolo.com:1935/dubaione/smil:dubaione.smil/playlist.m3u8
+#EXTINF:-1, Noor DubaiTV
+http://dmi.mangomolo.com:1935/noordubaitv/smil:noordubaitv.smil/playlist.m3u8
+#EXTINF:-1, Sama Dubai
+http://dmi.mangomolo.com:1935/samadubai/smil:samadubai.smil/playlist.m3u8
+#EXTINF:-1, Dubai Racing
+http://dmi.mangomolo.com:1935/dubairacing/smil:dubairacing.smil/playlist.m3u8
+#EXTINF:-1, Dubai Sports
+http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/playlist.m3u8
+#EXTINF:-1,2M 
+http://origin2.live.web.tv.streamprovider.net/streams/a75793f45c54c78f66331bf9dda98222/index.m3u8
 
 
 mo2akatan
@@ -57,8 +73,7 @@ http://178.33.88.129:888/udp/239.102.0.185:1234
 #EXTINF:-1,Rotana Classic 
 http://178.33.88.129:888/udp/239.102.0.187:1234 
 
-#EXTINF:-1,Al mayadeen
-rtmp://2.109.65.242:1936/rina/rinaand898809
+
 
 #EXTINF:-1,Al QUDS
 rtmp://2.109.65.242:1936/rina/rinaand898861
@@ -72,8 +87,7 @@ rtmp://2.109.65.242:1936/rina/rinaand898864
 #EXTINF:-1,CBC sofra
 rtmp://2.109.65.242:1936/rina/rinaand898873
 
-#EXTINF:-1,Panorama film
-rtmp://2.109.65.242:1936/rina/rinaand898837
+
 
 #EXTINF:-1,Star cinema 1
 rtmp://2.109.65.242:1936/rina/rinaand898876
@@ -281,8 +295,7 @@ rtmp://str81.creacast.com:80/cna/live.sdp
 #EXTINF:-1,DUBAI TV
 http://dmi.mangomolo.com:1935/dubaitv/smil:dubaitv.smil/playlist.m3u8
 
-#EXTINF:-1,Funoon TV
-http://wpc.C56B.edgecastcdn.net/hls-live/20C56B/default/ThompsanECWTV/tsecwatanfunoonmed.m3u8
+
 
 #EXTINF:-1,Halab Today TV
 rtmp://streaming.tootvs.com/8010/8010
@@ -392,20 +405,7 @@ http://87.245.214.43/streaming/futbol/16/tvrec/playlist.m3u8
 rtmp://myafricanmega.tulix.tv:1935/map-alsunnah/map-alsunnah.stream
 #EXTINF:-1 group-title="BestLinkss",wissal-tv
 http://109.123.123.82:1935/wesal/wesal1/chunklist_w2021646403.m3u8
-#EXTINF:-1, Dubai TV
-http://dmi.mangomolo.com:1935/dubaitv/smil:dubaitv.smil/playlist.m3u8
-#EXTINF:-1, Dubai ONE
-http://dmi.mangomolo.com:1935/dubaione/smil:dubaione.smil/playlist.m3u8
-#EXTINF:-1, Noor DubaiTV
-http://dmi.mangomolo.com:1935/noordubaitv/smil:noordubaitv.smil/playlist.m3u8
-#EXTINF:-1, Sama Dubai
-http://dmi.mangomolo.com:1935/samadubai/smil:samadubai.smil/playlist.m3u8
-#EXTINF:-1, Dubai Racing
-http://dmi.mangomolo.com:1935/dubairacing/smil:dubairacing.smil/playlist.m3u8
-#EXTINF:-1, Dubai Sports
-http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/playlist.m3u8
-#EXTINF:-1,2M 
-http://origin2.live.web.tv.streamprovider.net/streams/a75793f45c54c78f66331bf9dda98222/index.m3u8
+
 #EXTINF:-1,Al Hayat 2
 http://media.islamexplained.com:1935/live/ngrp:ahusa.stream_all/BratuMarian.m3u8
 
