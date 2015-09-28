@@ -74,35 +74,28 @@ rtmp://209.133.208.58/app//sami2017s-channel
 
 
 #EXTINF:-1,Samira Tv
-
 http://38.99.146.36:7777/SamiraTV_HD.m3u8
  
 
 
 #EXTINF:-1,Osn Drama
-
 http://149.202.31.195:88/live/122990/12345/475.ts
 
 #EXTINF:-1,SpaceToon
-
 http://38.99.146.36:7777/SpaceToonArabic_HD.m3u8
 
 
 #EXTINF:-1,Dava
-
 http://46.4.116.44:1935/m/chm8/Zona-Live-TV.m3u8
 
 #EXTINF:-1,Al Nahar Drama
-
 rtmp://stream138.n-stream.tv:2095/AlNaharTVSChannel/nahar_dramaprofile2.stream
 
 #EXTINF:-1,Al Nahar Elyawm
-
 rtmp://stream138.n-stream.tv:2095/AlNaharTVSChannel/nahar_youmprofile2.stream
 
 #EXTINF:-1,Al Nahar Tv
-
- rtmp://stream138.n-stream.tv:2095/AlNaharTVSChannel/nahar_tvprofile2.stream
+rtmp://stream138.n-stream.tv:2095/AlNaharTVSChannel/nahar_tvprofile2.stream
 
 
 #EXTINF:-1,Rotana Khaligi 
