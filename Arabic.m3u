@@ -726,3 +726,7 @@ http://bit.ly/1KoIrlo
 http://filmon.com//tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf?v=23
 #EXTINF:0,Rotana Cinema
 http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf?v=1.8.7
+#EXTINF:0,Tele
+http://www.elahmad.com/tv/player/plugins/info1.swf
+#EXTINF:0,tele
+http://www.elahmad.com/tv/swf/player_glarab.swf?plugins=/tv/player/plugins/info1.swf&file=36&autostart=true&
