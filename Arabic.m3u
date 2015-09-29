@@ -10,6 +10,8 @@ rtmp://nbn.mangomolo.com:1935/nbn/_definst_mp4:mpegts.stream_360p
 http://livestreaming.itworkscdn.net/aljadeedlive/aljadeed_360p/playlist.m3u8
 #EXTINF:-1,OTV
 http://livestreaming.itworkscdn.net/otvmobile/otvlive_1/playlist.m3u8
+#EXTINF:-1,Future Tv
+rstp://livestreaming.itworkscdn.net/ftvlive/ftvlive
 
 
 
@@ -720,3 +722,7 @@ http://bit.ly/1KoIqhj
 http://bit.ly/1iftJlO
 #EXTINF:0,AR: beINSport 1 HD
 http://bit.ly/1KoIrlo
+#EXTINF:0,Rotana Masriya
+http://filmon.com//tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf?v=23
+#EXTINF:0,Rotana Cinema
+http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf?v=1.8.7
