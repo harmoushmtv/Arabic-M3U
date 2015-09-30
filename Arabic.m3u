@@ -11,12 +11,22 @@ http://livestreaming.itworkscdn.net/aljadeedlive/aljadeed_360p/playlist.m3u8
 #EXTINF:-1,OTV
 http://livestreaming.itworkscdn.net/otvmobile/otvlive_1/playlist.m3u8
 #EXTINF:-1,Future Tv
-rstp://livestreaming.itworkscdn.net/ftvlive/ftvlive
+rtsp://livestreaming.itworkscdn.net/ftvlive/ftvlive
 
 
 
 #EXTINF:-1,MTV
 rtsp://livestreaming1.itworkscdn.net/mtvlive/murrtelevision_360p
+
+
+
+#EXTINF:-1,ALAAN
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/al_aan/ls_satlink/b_828.m3u8
+
+#EXTINF:-1,ANB
+rtsp://streaming.i-sat.tv/live/anb.stream_360p
+
+
 
 
 
@@ -37,8 +47,7 @@ http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/almayadeen/ls_satlink/b_828.m3u8
 
 #EXTINF:-1,Al Kawthar
 http://live.pgmedia.ir:1935/live-35895787/alkosar-1024.sdp/playlist.m3u8?DVR
-#EXTINF:-1,Al Maaref
-http://almaareftv.com:1935/live/1/HasBahCa.m3u8
+
 
 
 
@@ -46,6 +55,9 @@ http://almaareftv.com:1935/live/1/HasBahCa.m3u8
 http://www.metafilegenerator.de/DWelle/tv-arabia/ios/master.m3u8
 #EXTINF:-1,Aljazeera Doc
 http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kStream.m3u8
+
+#EXTINF:-1,Mbc Drama
+http://dmi.mangomolo.com:1935/dubaidrama/smil:dubaidrama.stream.smil/chunklist_w1645216972_b1200000.m3u8
 
 #EXTINF:-1,Funoon TV
 http://wpc.C56B.edgecastcdn.net/hls-live/20C56B/default/ThompsanECWTV/tsecwatanfunoonmed.m3u8
