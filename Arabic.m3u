@@ -59,6 +59,12 @@ http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kS
 #EXTINF:-1,Mbc Drama
 http://dmi.mangomolo.com:1935/dubaidrama/smil:dubaidrama.stream.smil/chunklist_w1645216972_b1200000.m3u8
 
+#EXTINF:-1,Art Aflam 1
+rtmp://web2.iptv-planet.com:1937/live2/artaflam1
+
+#EXTINF:-1,Art Aflam 1
+rtmp://web2.iptv-planet.com:1937/live2/artaflam1?key=084117101032079099116032048054
+
 #EXTINF:-1,Funoon TV
 http://wpc.C56B.edgecastcdn.net/hls-live/20C56B/default/ThompsanECWTV/tsecwatanfunoonmed.m3u8
 #EXTINF:-1, Dubai TV
