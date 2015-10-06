@@ -16,6 +16,9 @@ rtsp://livestreaming.itworkscdn.net/ftvlive/ftvlive
 
 
 #EXTINF:-1,MTV
+rtmp://web2.iptv-planet.com:1937/live2/mtv?key=084117101032079099116032048054
+
+#EXTINF:-1,MTV
 rtsp://livestreaming1.itworkscdn.net/mtvlive/murrtelevision_360p
 
 
@@ -25,6 +28,56 @@ http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/al_aan/ls_satlink/b_828.m3u8
 
 #EXTINF:-1,ANB
 rtsp://streaming.i-sat.tv/live/anb.stream_360p
+
+
+Iptv Planet
+
+#EXTINF:-1,Art Aflam 1
+rtmp://web2.iptv-planet.com:1937/live2/artaflam1?key=084117101032079099116032048054
+
+#EXTINF:-1,Art Aflam 2
+rtmp://web2.iptv-planet.com:1937/live2/artaflam2?key=084117101032079099116032048054
+
+#EXTINF:-1,LBC
+rtmp://web.iptv-planet.com:1937/live2/lbc?key=084117101032079099116032048054
+#EXTINF:-1,Panorama Drama
+rtmp://web3.iptv-planet.com:1937/live2/pd?key=084117101032079099116032048054
+#EXTINF:-1,Panorama Drama 2
+rtmp://web3.iptv-planet.com:1937/live2/pd2?key=084117101032079099116032048054
+
+#EXTINF:-1,Art Hikayat
+rtmp://web2.iptv-planet.com:1937/live2/artcinema?key=084117101032079099116032048054
+
+#EXTINF:-1,Rotana Cinema
+rtmp://web.iptv-planet.com:1937/live2/rc?key=084117101032079099116032048054
+
+
+#EXTINF:-1,Rotana Clip
+rtmp://web2.iptv-planet.com:1937/live2/rcl?key=084117101032079099116032048054
+
+
+#EXTINF:-1,Cima
+rtmp://web3.iptv-planet.com:1937/live2/cima?key=084117101032079099116032048054
+
+
+#EXTINF:-1,CBC
+rtmp://web.iptv-planet.com:1937/live2/cbc?key=084117101032079099116032048054
+
+#EXTINF:-1,AlHayat Cinema
+rtmp://web.iptv-planet.com:1937/live2/Hi_AlHayatCinema?key=084117101032079099116032048054
+
+#EXTINF:-1,Nile Cinema
+rtmp://web2.iptv-planet.com:1937/live2/Hi_nilecinema?key=084117101032079099116032048054
+
+#EXTINF:-1,Nissma Tv
+rtmp://web2.iptv-planet.com:1937/live2/n?key=084117101032079099116032048054
+
+#EXTINF:-1,National Geographic
+rtmp://web3.iptv-planet.com:1937/live2/natgeographic?key=084117101032079099116032048054
+
+
+#EXTINF:-1,Mbc 2
+rtmp://web.iptv-planet.com:1937/live2/Hi_mbc2?key=084117101032079099116032048054
 
 
 
@@ -59,11 +112,9 @@ http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kS
 #EXTINF:-1,Mbc Drama
 http://dmi.mangomolo.com:1935/dubaidrama/smil:dubaidrama.stream.smil/chunklist_w1645216972_b1200000.m3u8
 
-#EXTINF:-1,Art Aflam 1
-rtmp://web2.iptv-planet.com:1937/live2/artaflam1
 
-#EXTINF:-1,Art Aflam 1
-rtmp://web2.iptv-planet.com:1937/live2/artaflam1?key=084117101032079099116032048054
+
+
 
 #EXTINF:-1,Funoon TV
 http://wpc.C56B.edgecastcdn.net/hls-live/20C56B/default/ThompsanECWTV/tsecwatanfunoonmed.m3u8
