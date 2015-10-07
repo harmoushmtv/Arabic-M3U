@@ -30,54 +30,6 @@ http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/al_aan/ls_satlink/b_828.m3u8
 rtsp://streaming.i-sat.tv/live/anb.stream_360p
 
 
-Iptv Planet
-
-#EXTINF:-1,Art Aflam 1
-rtmp://web2.iptv-planet.com:1937/live2/artaflam1?key=084117101032079099116032048054
-
-#EXTINF:-1,Art Aflam 2
-rtmp://web2.iptv-planet.com:1937/live2/artaflam2?key=084117101032079099116032048054
-
-#EXTINF:-1,LBC
-rtmp://web.iptv-planet.com:1937/live2/lbc?key=084117101032079099116032048054
-#EXTINF:-1,Panorama Drama
-rtmp://web3.iptv-planet.com:1937/live2/pd?key=084117101032079099116032048054
-#EXTINF:-1,Panorama Drama 2
-rtmp://web3.iptv-planet.com:1937/live2/pd2?key=084117101032079099116032048054
-
-#EXTINF:-1,Art Hikayat
-rtmp://web2.iptv-planet.com:1937/live2/artcinema?key=084117101032079099116032048054
-
-#EXTINF:-1,Rotana Cinema
-rtmp://web.iptv-planet.com:1937/live2/rc?key=084117101032079099116032048054
-
-
-#EXTINF:-1,Rotana Clip
-rtmp://web2.iptv-planet.com:1937/live2/rcl?key=084117101032079099116032048054
-
-
-#EXTINF:-1,Cima
-rtmp://web3.iptv-planet.com:1937/live2/cima?key=084117101032079099116032048054
-
-
-#EXTINF:-1,CBC
-rtmp://web.iptv-planet.com:1937/live2/cbc?key=084117101032079099116032048054
-
-#EXTINF:-1,AlHayat Cinema
-rtmp://web.iptv-planet.com:1937/live2/Hi_AlHayatCinema?key=084117101032079099116032048054
-
-#EXTINF:-1,Nile Cinema
-rtmp://web2.iptv-planet.com:1937/live2/Hi_nilecinema?key=084117101032079099116032048054
-
-#EXTINF:-1,Nissma Tv
-rtmp://web2.iptv-planet.com:1937/live2/n?key=084117101032079099116032048054
-
-#EXTINF:-1,National Geographic
-rtmp://web3.iptv-planet.com:1937/live2/natgeographic?key=084117101032079099116032048054
-
-
-#EXTINF:-1,Mbc 2
-rtmp://web.iptv-planet.com:1937/live2/Hi_mbc2?key=084117101032079099116032048054
 
 
 
@@ -791,11 +743,51 @@ http://bit.ly/1KoIqhj
 http://bit.ly/1iftJlO
 #EXTINF:0,AR: beINSport 1 HD
 http://bit.ly/1KoIrlo
-#EXTINF:0,Rotana Masriya
-http://filmon.com//tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf?v=23
-#EXTINF:0,Rotana Cinema
-http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf?v=1.8.7
-#EXTINF:0,Tele
-http://www.elahmad.com/tv/player/plugins/info1.swf
-#EXTINF:0,tele
-http://www.elahmad.com/tv/swf/player_glarab.swf?plugins=/tv/player/plugins/info1.swf&file=36&autostart=true&
+Iptv Planet
+
+#EXTINF:-1,Art Aflam 1
+rtmp://web2.iptv-planet.com:1937/live2/artaflam1?key=084117101032079099116032048054
+
+#EXTINF:-1,Art Aflam 2
+rtmp://web2.iptv-planet.com:1937/live2/artaflam2?key=084117101032079099116032048054
+
+#EXTINF:-1,LBC
+rtmp://web.iptv-planet.com:1937/live2/lbc?key=084117101032079099116032048054
+#EXTINF:-1,Panorama Drama
+rtmp://web3.iptv-planet.com:1937/live2/pd?key=084117101032079099116032048054
+#EXTINF:-1,Panorama Drama 2
+rtmp://web3.iptv-planet.com:1937/live2/pd2?key=084117101032079099116032048054
+
+#EXTINF:-1,Art Hikayat
+rtmp://web2.iptv-planet.com:1937/live2/artcinema?key=084117101032079099116032048054
+
+#EXTINF:-1,Rotana Cinema
+rtmp://web.iptv-planet.com:1937/live2/rc?key=084117101032079099116032048054
+
+
+#EXTINF:-1,Rotana Clip
+rtmp://web2.iptv-planet.com:1937/live2/rcl?key=084117101032079099116032048054
+
+
+#EXTINF:-1,Cima
+rtmp://web3.iptv-planet.com:1937/live2/cima?key=084117101032079099116032048054
+
+
+#EXTINF:-1,CBC
+rtmp://web.iptv-planet.com:1937/live2/cbc?key=084117101032079099116032048054
+
+#EXTINF:-1,AlHayat Cinema
+rtmp://web.iptv-planet.com:1937/live2/Hi_AlHayatCinema?key=084117101032079099116032048054
+
+#EXTINF:-1,Nile Cinema
+rtmp://web2.iptv-planet.com:1937/live2/Hi_nilecinema?key=084117101032079099116032048054
+
+#EXTINF:-1,Nissma Tv
+rtmp://web2.iptv-planet.com:1937/live2/n?key=084117101032079099116032048054
+
+#EXTINF:-1,National Geographic
+rtmp://web3.iptv-planet.com:1937/live2/natgeographic?key=084117101032079099116032048054
+
+
+#EXTINF:-1,Mbc 2
+rtmp://web.iptv-planet.com:1937/live2/Hi_mbc2?key=084117101032079099116032048054
