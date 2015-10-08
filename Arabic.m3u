@@ -3,22 +3,23 @@ Lebanon
 EXTM3U
 #EXTINF:-1,Al Manar
 http://38.96.148.199:1935/liveedge1/livestream_720p/chunklist_w768131600.m3u8
-#EXTINF:-1,NBN
+#EXTINF:-1,NBN Libanon
 rtmp://nbn.mangomolo.com:1935/nbn/_definst_mp4:mpegts.stream_360p
 
-#EXTINF:-1,Aljadid
+#EXTINF:-1,Al Jadid
 http://livestreaming.itworkscdn.net/aljadeedlive/aljadeed_360p/playlist.m3u8
-#EXTINF:-1,OTV
+#EXTINF:-1,OTV Libanon
 http://livestreaming.itworkscdn.net/otvmobile/otvlive_1/playlist.m3u8
 #EXTINF:-1,Future Tv
 rtsp://livestreaming.itworkscdn.net/ftvlive/ftvlive
 
 
 
-#EXTINF:-1,MTV
-rtmp://web2.iptv-planet.com:1937/live2/mtv?key=084117101032079099116032048054
+#EXTINF:-1,MTV Libanon
+rtmp://web2.iptv-planet.com:1937/live2/mtv?key=084104117032079099116032048056
 
-#EXTINF:-1,MTV
+
+#EXTINF:-1,MTV Libanon
 rtsp://livestreaming1.itworkscdn.net/mtvlive/murrtelevision_360p
 
 
@@ -44,7 +45,7 @@ rtsp://streaming.i-sat.tv/live/anb.stream_360p
 
 
 
-#EXTINF:-1,mayadeen
+#EXTINF:-1,Al Mayadeen
 http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/almayadeen/ls_satlink/b_828.m3u8
 
 
@@ -85,6 +86,42 @@ http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/playlist.m3u8
 #EXTINF:-1,2M 
 http://origin2.live.web.tv.streamprovider.net/streams/a75793f45c54c78f66331bf9dda98222/index.m3u8
 
+#EXTINF:-1,Al Nahar Darama
+rtmp://stream138.n-stream.tv:2095/AlNaharTVSChannel/nahar_dramaprofile2.stream
+#EXTINF:-1,Al Nahar AlYawm
+rtmp://stream138.n-stream.tv:2095/AlNaharTVSChannel/nahar_youmprofile2.stream
+#EXTINF:-1,Al Nahar Tv
+rtmp://stream138.n-stream.tv:2095/AlNaharTVSChannel/nahar_tvprofile2.stream
+#EXTINF:-1,Al Iqtisadiyah
+rtmp://babflashlivefs.fplive.net/babflash9live-live?v=697151380/stream2
+#EXTINF:-1,Al Thakafiyah
+rtmp://babflashlivefs.fplive.net/babflash8live-live?v=697151380/stream2
+#EXTINF:-1,Saudi Arabia 1
+rtmp://babflashlivefs.fplive.net/babflash3live-live?v=697151380/stream2
+#EXTINF:-1,IFilm
+rtmp://mtv.fms-01.visionip.tv/live//mtv-ifilm-ifilm_arabic-live-4x3-SD
+#EXTINF:-1,Maan
+rtmp://217.21.0.14/maan//mp4:maan_1
+#EXTINF:-1,Al Ma3ali
+rtmp://free.flashwebtown.com:1935/bashaclick/myStream.sdp
+#EXTINF:-1,Al Masar
+rtmp://msr1tv.flashmediacast.com:2071/live/livestream
+#EXTINF:-1,Al Sharika
+http://livestreaming.itworkscdn.net/smc1live/smc1tv_240p/playlist.m3u8
+#EXTINF:-1,Al Rai
+rtmp://stream01.fasttelco.net/live/_definst_/ALRAI/LIVE_STREAMING/alrai
+#EXTINF:-1,Al Hurra
+rtmp://cp51007.live.edgefcs.net:443/live?ovpfv=2.1.6/Alhurra_Flash@15
+#EXTINF:-1,Al Sunna Al nabawiya
+http://46.245.160.224/medine/medine/Zona-Live-TV.m3u8
+#EXTINF:-1,Al Koraan Al karim
+http://46.245.160.224/mekke/mekke/Zona-Live-TV.m3u8
+#EXTINF:-1,Bda
+http://agendastreamerx1.qna.org.qa:1935/bda/bda/playlist.m3u8
+#EXTINF:-1,Qatar Tv
+http://agendastreamerx1.qna.org.qa:1935/qtv/qtv/chunklist.m3u8?wowzasessionid=1409761041
+#EXTINF:-1,Al Rayan
+http://agendastreamerx1.qna.org.qa:1935/ryn/ryn/chunklist.m3u8?wowzasessionid=752465222
 
 mo2akatan
 
