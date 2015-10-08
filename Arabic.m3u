@@ -19,6 +19,8 @@ rtsp://livestreaming.itworkscdn.net/ftvlive/ftvlive
 
 #EXTINF:-1,MTV Alloubnaniya
 rtsp://livestreaming1.itworkscdn.net/mtvlive/murrtelevision_360p
+#EXTINF:-1,LBC
+rtsp://svs.itworkscdn.net/lbcgrouplive/lbc_2?habazlamendtime=1444342698&habazlamwowzastarttime=0&habazlamwowzastcustom=1444299502&habazlamhash=29YnFvshiGYC7qLDHEGsMvabxNSrrRlU7_Dk3jMXvA8=
 
 
 
@@ -46,8 +48,8 @@ rtsp://streaming.i-sat.tv/live/anb.stream_360p
 #EXTINF:-1,Al Mayadeen
 http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/almayadeen/ls_satlink/b_828.m3u8
 
-
-
+#EXTINF:-1,Ahlulbayt
+rtmp://ahlulbaytlive.nanocdn.com/live/ahlulbayt256
 
 #EXTINF:-1,Al Kawthar
 http://live.pgmedia.ir:1935/live-35895787/alkosar-1024.sdp/playlist.m3u8?DVR
@@ -787,11 +789,10 @@ rtmp://web2.iptv-planet.com:1937/live2/artaflam1?key=084104117032079099116032048
 #EXTINF:-1,Art Aflam 2
 rtmp://web2.iptv-planet.com:1937/live2/artaflam2?key=084117101032079099116032048054
 
-#EXTINF:-1,LBC
-rtsp://svs.itworkscdn.net/lbcgrouplive/lbc_2?habazlamendtime=1444342698&habazlamwowzastarttime=0&habazlamwowzastcustom=1444299502&habazlamhash=29YnFvshiGYC7qLDHEGsMvabxNSrrRlU7_Dk3jMXvA8=
 
-#EXTINF:-1,LBC
-rtsp://svs.itworkscdn.net/lbcgrouplive/lbc_2
+
+#EXTINF:-1,Imam AL Hussain
+rtsp://ca.live.imamhussein.tv:1935/live/mp4:ih203/trackID=1;seq=1;rtptime=3678978672,url=rtsp://ca.live.imamhussein.tv:1935/live/mp4:ih203/trackID=2;seq=1;rtptime=2603117714
 #EXTINF:-1,LBC
 rtmp://web.iptv-planet.com:1937/live2/lbc?key=084117101032079099116032048054
 #EXTINF:-1,Panorama Drama
