@@ -782,10 +782,16 @@ Iptv Planet
 
 #EXTINF:-1,Art Aflam 1
 rtmp://web2.iptv-planet.com:1937/live2/artaflam1?key=084117101032079099116032048054
+rtmp://web2.iptv-planet.com:1937/live2/artaflam1?key=084104117032079099116032048056
 
 #EXTINF:-1,Art Aflam 2
 rtmp://web2.iptv-planet.com:1937/live2/artaflam2?key=084117101032079099116032048054
 
+#EXTINF:-1,LBC
+rtsp://svs.itworkscdn.net/lbcgrouplive/lbc_2?habazlamendtime=1444342698&habazlamwowzastarttime=0&habazlamwowzastcustom=1444299502&habazlamhash=29YnFvshiGYC7qLDHEGsMvabxNSrrRlU7_Dk3jMXvA8=
+
+#EXTINF:-1,LBC
+rtsp://svs.itworkscdn.net/lbcgrouplive/lbc_2
 #EXTINF:-1,LBC
 rtmp://web.iptv-planet.com:1937/live2/lbc?key=084117101032079099116032048054
 #EXTINF:-1,Panorama Drama
