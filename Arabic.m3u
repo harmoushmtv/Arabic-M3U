@@ -15,12 +15,9 @@ rtsp://livestreaming.itworkscdn.net/ftvlive/ftvlive
 
 
 
-#EXTINF:-1,MTV Libanon
-rtmp://web2.iptv-planet.com:1937/live2/mtv?key=084104117032079099116032048056 <swfUrl>http://embed.iptv-planet.com/swfs/player.swf <pageUrl>http://embed.iptv-planet.com/embed.php?id=mtv&width=600&height=400
 
 
-
-#EXTINF:-1,MTV Libanon
+#EXTINF:-1,MTV Alloubnaniya
 rtsp://livestreaming1.itworkscdn.net/mtvlive/murrtelevision_360p
 
 
