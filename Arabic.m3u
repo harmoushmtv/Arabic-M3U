@@ -838,3 +838,5 @@ rtmp://web3.iptv-planet.com:1937/live2/natgeographic?key=08411710103207909911603
 rtmp://web.iptv-planet.com:1937/live2/Hi_mbc2?key=084117101032079099116032048054
 #EXTINF:-1,Al Manar
 http://38.96.148.199:1935/liveedge1/livestream_720p/chunklist_w768131600.m3u8
+#EXTINF:-1,NBN
+rtmp://lived.nbn.com.lb/nbn/mpegts.stream
