@@ -20,9 +20,6 @@ rtsp://livestreaming.itworkscdn.net/ftvlive/ftvlive
 
 #EXTINF:-1,MTV Alloubnaniya
 rtsp://livestreaming1.itworkscdn.net/mtvlive/murrtelevision_360p
-#EXTINF:-1,LBC
-rtsp://svs.itworkscdn.net/lbcgrouplive/lbc_2?habazlamendtime=1444342698&habazlamwowzastarttime=0&habazlamwowzastcustom=1444299502&habazlamhash=29YnFvshiGYC7qLDHEGsMvabxNSrrRlU7_Dk3jMXvA8=
-
 
 
 #EXTINF:-1,ALAAN
