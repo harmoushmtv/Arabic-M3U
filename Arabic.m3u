@@ -2,7 +2,8 @@ Lebanon
 
 EXTM3U
 #EXTINF:-1,Al Manar
-http://38.96.148.199:1935/liveedge1/livestream_720p/chunklist_w768131600.m3u8
+http://38.96.148.204:1935/liveedge/livestream_m128p/playlist.m3u8
+
 #EXTINF:-1,NBN Libanon
 rtmp://nbn.mangomolo.com:1935/nbn/_definst_mp4:mpegts.stream_360p
 
@@ -53,6 +54,8 @@ rtmp://ahlulbaytlive.nanocdn.com/live/ahlulbayt256
 
 #EXTINF:-1,Al Kawthar
 http://live.pgmedia.ir:1935/live-35895787/alkosar-1024.sdp/playlist.m3u8?DVR
+#EXTINF:-1,Al Maaref
+http://almaareftv.com:1935/live/11/playlist.m3u8
 
 
 
@@ -833,3 +836,5 @@ rtmp://web3.iptv-planet.com:1937/live2/natgeographic?key=08411710103207909911603
 
 #EXTINF:-1,Mbc 2
 rtmp://web.iptv-planet.com:1937/live2/Hi_mbc2?key=084117101032079099116032048054
+#EXTINF:-1,Al Manar
+http://38.96.148.199:1935/liveedge1/livestream_720p/chunklist_w768131600.m3u8
