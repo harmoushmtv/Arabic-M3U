@@ -805,7 +805,7 @@ rtmp://web3.iptv-planet.com:1937/live2/pd2?key=084117101032079099116032048054
 rtmp://web2.iptv-planet.com:1937/live2/artcinema?key=084117101032079099116032048054
 
 #EXTINF:-1,Rotana Cinema
-rtmp://web.iptv-planet.com:1937/live2/rc?key=084117101032079099116032048054
+rtmp://127.0.0.1:1935/rotanacinemapublish/_definst_/rotanacinema_360p
 
 
 #EXTINF:-1,Rotana Clip
@@ -829,7 +829,7 @@ rtmp://web2.iptv-planet.com:1937/live2/Hi_nilecinema?key=08411710103207909911603
 rtmp://web2.iptv-planet.com:1937/live2/n?key=084117101032079099116032048054
 
 #EXTINF:-1,National Geographic
-rtmp://web3.iptv-planet.com:1937/live2/natgeographic?key=084117101032079099116032048054
+rtmp://$OPT:rtmp-raw=rtmp://184.173.181.3/live playpath=trhtgfjhgjhg?id=147478 swfUrl=http://mips.tv/content/scripts/eplayer.swf live=1 pageUrl=http://mips.tv/embedplayer/trhtgfjhgjhg/1/600/380
 
 
 #EXTINF:-1,Mbc 2
