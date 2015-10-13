@@ -1,13 +1,14 @@
 #EXTM3U
 #EXTINF:-1,Al Manar
-http://38.96.148.204:1935/liveedge/livestream_m128p/playlist.m3u8
+rtmp://162.244.80:1935/liveedge/livestream_360p
 
 #EXTINF:-1,NBN Libanon
-rtmp://162.244.80.108:1935/liveedge/livestream_360p
+rtmp://nbn.mangomolo.com:1935/nbn/_definst_mp4:mpegts.stream_360p
 
 
 #EXTINF:-1,Al Jadid
 http://livestreaming.itworkscdn.net/aljadeedlive/aljadeed_360p/playlist.m3u8
+
 #EXTINF:-1,OTV Libanon
 http://livestreaming.itworkscdn.net/otvmobile/otvlive_1/playlist.m3u8
 
@@ -15,11 +16,10 @@ http://livestreaming.itworkscdn.net/otvmobile/otvlive_1/playlist.m3u8
 #EXTINF:-1,MTV Alloubnaniya
 http://livestreaming1.itworkscdn.net/mtvlive/smil:mtvmob.smil/playlist.m3u8
 #EXTINF:-1,Future Tv
-http://livestreaming.itworkscdn.net/ftvlive/ftvlive/playlist.m3u8
+rtsp://livestreaming.itworkscdn.net/ftvlive/ftvlive
 #EXTINF:-1,LBC Liban
 https://svs.itworkscdn.net/lbcgrouplive/smil:lbclive.smil/playlist.m3u8?habazlamendtime=1444763951&habazlamwowzastarttime=0&habazlamwowzastcustom=1444720755&habazlamhash=bnqK0p19vOzlLrKSSPrFN3iT27YcScKX5cwaddXn_m4=
-#EXTINF:-1,
-#EXTINF:-1,
+
 
 
 
@@ -48,8 +48,7 @@ rtsp://streaming.i-sat.tv/live/anb.stream_360p
 #EXTINF:-1,Al Mayadeen
 http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/almayadeen/ls_satlink/b_828.m3u8
 
-#EXTINF:-1,Karbala Tv
-https://api.new.livestream.com/accounts/11436227/events/3998452/broadcasts/101837669.secure.m3u8?dw=100&hdnea=st=1444721452~exp=1444723252~acl=/i/11436227_3998452_00050347_1@317400/*~hmac=1584fbf57bff3a3f3f7c4a8adbe7364bdff036cec2a42cf9e7c2a924af2cab3c
+
 #EXTINF:-1,Ahlulbayt
 rtmp://ahlulbaytlive.nanocdn.com/live/ahlulbayt256
 
