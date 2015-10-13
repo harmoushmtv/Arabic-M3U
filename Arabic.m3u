@@ -2,8 +2,8 @@
 #EXTINF:-1,Al Manar
 http://38.96.148.199:1935/liveedge1/livestream_720p/chunklist_w768131600.m3u8
 
-#EXTINF:-1,NBN Libanon
-rtmp://nbn.mangomolo.com:1935/nbn/_definst_mp4:mpegts.stream_360p
+#EXTINF:-1,NBN
+rtmp://lived.nbn.com.lb/nbn/mpegts.stream
 
 
 #EXTINF:-1,Al Jadid
@@ -18,8 +18,7 @@ http://livestreaming1.itworkscdn.net/mtvlive/smil:mtvmob.smil/playlist.m3u8
 #EXTINF:-1,Future Tv
 rtsp://livestreaming.itworkscdn.net/ftvlive/ftvlive
 #EXTINF:-1,LBC Liban
-https://svs.itworkscdn.net/lbcgrouplive/smil:lbclive.smil/playlist.m3u8?habazlamendtime=1444763951&habazlamwowzastarttime=0&habazlamwowzastcustom=1444720755&habazlamhash=bnqK0p19vOzlLrKSSPrFN3iT27YcScKX5cwaddXn_m4=
-
+https://redirector.gvt1.com/videoplayback/id/c5c966388447fec9/itag/43/source/gfp_video_ads/requiressl/yes/ip/0.0.0.0/ipbits/0/expire/1444789508/sparams/ip,ipbits,expire,id,itag,source,requiressl/signature/49D4B52785EFE226ADDC6DD9FE6D9FB194DDF73E.7AC5A622C2496625EC4841CC88DC3E23B8BF606F/key/ck2/file/file.webm
 
 
 
