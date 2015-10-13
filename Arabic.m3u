@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1,Al Manar
-rtmp://162.244.80:1935/liveedge/livestream_360p
+http://38.96.148.199:1935/liveedge1/livestream_720p/chunklist_w768131600.m3u8
 
 #EXTINF:-1,NBN Libanon
 rtmp://nbn.mangomolo.com:1935/nbn/_definst_mp4:mpegts.stream_360p
