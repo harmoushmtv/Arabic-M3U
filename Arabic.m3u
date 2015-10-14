@@ -45,7 +45,7 @@ rtsp://streaming.i-sat.tv/live/anb.stream_360p
 
 
 #EXTINF:-1,Al Mayadeen
-http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/almayadeen/ls_satlink/b_828.m3u8
+rtsp://livestreaming3.itworkscdn.net/mayadeenlive/mayadsat_240p
 #EXTINF:-1,Al Imam Alhussein
 http://ca.live.imamhussein.tv:1935/live/ih201/playlist.m3u8
 #EXTINF:-1,Ahlulbayt
