@@ -666,57 +666,13 @@ http://bit.ly/1iftJlO
 http://bit.ly/1KoIrlo
 Iptv Planet
 
-#EXTINF:-1,Art Aflam 1
-rtmp://web2.iptv-planet.com:1937/live2/artaflam1?key=084117101032079099116032048054
-rtmp://web2.iptv-planet.com:1937/live2/artaflam1?key=084104117032079099116032048056
 
-#EXTINF:-1,Art Aflam 2
-rtmp://web2.iptv-planet.com:1937/live2/artaflam2?key=084117101032079099116032048054
-
-
-
-#EXTINF:-1,Imam AL Hussain
-rtsp://ca.live.imamhussein.tv:1935/live/mp4:ih203/trackID=1;seq=1;rtptime=3678978672,url=rtsp://ca.live.imamhussein.tv:1935/live/mp4:ih203/trackID=2;seq=1;rtptime=2603117714
-#EXTINF:-1,LBC
-rtmp://web.iptv-planet.com:1937/live2/lbc?key=084117101032079099116032048054
-#EXTINF:-1,Panorama Drama
-rtmp://web3.iptv-planet.com:1937/live2/pd?key=084117101032079099116032048054
-#EXTINF:-1,Panorama Drama 2
-rtmp://web3.iptv-planet.com:1937/live2/pd2?key=084117101032079099116032048054
-
-#EXTINF:-1,Art Hikayat
-rtmp://web2.iptv-planet.com:1937/live2/artcinema?key=084117101032079099116032048054
-
-#EXTINF:-1,Rotana Cinema
-rtmp://127.0.0.1:1935/rotanacinemapublish/_definst_/rotanacinema_360p
-
-
-#EXTINF:-1,Rotana Clip
-rtmp://web2.iptv-planet.com:1937/live2/rcl?key=084117101032079099116032048054
-
-
-#EXTINF:-1,Cima
-rtmp://web3.iptv-planet.com:1937/live2/cima?key=084117101032079099116032048054
-
-
-#EXTINF:-1,CBC
-rtmp://web.iptv-planet.com:1937/live2/cbc?key=084117101032079099116032048054
-
-#EXTINF:-1,AlHayat Cinema
-rtmp://web.iptv-planet.com:1937/live2/Hi_AlHayatCinema?key=084117101032079099116032048054
-
-#EXTINF:-1,Nile Cinema
-rtmp://web2.iptv-planet.com:1937/live2/Hi_nilecinema?key=084117101032079099116032048054
-
-#EXTINF:-1,Nissma Tv
-rtmp://web2.iptv-planet.com:1937/live2/n?key=084117101032079099116032048054
 
 #EXTINF:-1,National Geographic
 rtmp://$OPT:rtmp-raw=rtmp://184.173.181.3/live playpath=trhtgfjhgjhg?id=147478 swfUrl=http://mips.tv/content/scripts/eplayer.swf live=1 pageUrl=http://mips.tv/embedplayer/trhtgfjhgjhg/1/600/380
 
 
-#EXTINF:-1,Mbc 2
-rtmp://web.iptv-planet.com:1937/live2/Hi_mbc2?key=084117101032079099116032048054
+
 #EXTINF:-1,Al Manar
 http://38.96.148.199:1935/liveedge1/livestream_720p/chunklist_w768131600.m3u8
 #EXTINF:-1,NBN
