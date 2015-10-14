@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1,Al Manar
-http://38.96.148.199:1935/liveedge1/livestream_720p/chunklist_w768131600.m3u8
+ http://38.96.148.199:1935/liveedge1/livestream_360p/playlist.m3u8
 
 #EXTINF:-1,NBN
 rtmp://lived.nbn.com.lb/nbn/mpegts.stream
@@ -42,8 +42,8 @@ rtsp://streaming.i-sat.tv/live/anb.stream_360p
 
 
 
-
-
+#EXTINF:-1,Russia Today
+http://rt-lh.akamaihd.net/i/ch_03@325607/index_320p_av-p.m3u8
 #EXTINF:-1,Al Mayadeen
 rtsp://livestreaming3.itworkscdn.net/mayadeenlive/mayadsat_240p
 #EXTINF:-1,Al Imam Alhussein
@@ -107,9 +107,9 @@ http://origin2.live.web.tv.streamprovider.net/streams/a75793f45c54c78f66331bf9dd
 #EXTINF:-1,Al Nahar Darama
 rtmp://stream138.n-stream.tv:2095/AlNaharTVSChannel/nahar_dramaprofile2.stream
 #EXTINF:-1,Al Nahar AlYawm
-rtmp://stream138.n-stream.tv:2095/AlNaharTVSChannel/nahar_youmprofile2.stream
+http://stream250.n-stream.tv:1935/AlNaharTVSChannel/nahar_youmprofile2.stream/playlist.m3u8
 #EXTINF:-1,Al Nahar Tv
-rtmp://stream138.n-stream.tv:2095/AlNaharTVSChannel/nahar_tvprofile2.stream
+http://stream250.n-stream.tv:1935/AlNaharTVSChannel/nahar_tvprofile2.stream/playlist.m3u8
 #EXTINF:-1,Al Iqtisadiyah
 rtmp://babflashlivefs.fplive.net/babflash9live-live?v=697151380/stream2
 #EXTINF:-1,Al Thakafiyah
@@ -158,16 +158,15 @@ http://46.4.116.44:1935/m/chm8/Zona-Live-TV.m3u8
 
 
 #EXTINF:-1,Rotana Music
-http://204.107.27.137/live/2600.low.stream/playlist.m3u8?id=8734021ce672df80436984de5c05e25d1f6e2479794dad83fee473a1cab046cecc7b10bcc60d86b134032b434952a538885a9d6b888b266a95163b236df462139f6260c4741c0a6f62c23ec12fb552daada78dbe197f8b38d359a3aa33155e73f72d3b2a4853f66eeb117b11024e35e118cc4f1a313920d77b8aaafdbef1404759deaf75ec6cfa4aa7b26455c061ef1576cc760803d46a34
+http://198.179.30.110/live/2600.low.stream/playlist.m3u8?id=0ad5aac39bb13fbee1e208071da0543cfec993a74791cd59352b4b92277c242f6f8d184cf99b5464ac8a27d447196a290cc7fc16e5dc423e5f13cb888cc1865d2cb12b48f49411ed07305a327e779e7ca03429bd927663a016f5850c663927c958df76d4dc50393798bd61c8ca90626a189bd6e1dad658afa01793622c14f5b16655e2659a4041ecec1ab5136804c86c2dac7d40080a97fe
 #EXTINF:-1,Rotana Khaligi 
-http://204.107.27.137/live/2606.low.stream/playlist.m3u8?id=8734021ce672df801ef1feb8bd9f3b2bae3edffa805e559834c012dda4fed5044f8e5cda88a7dc2bf0faba6b58fd5d7e1869fe08c3eb39ba3dfaa813f2c504a010948af9f0811c017edcecf151652d2cba5cb49d3e366b7ab21c9f254464e76a65e9b195879a393a5fd307abdae094d85cc4b6e41c6998b1d7f8ca789a115abc821b5a2ee06c99e111300b98b42d0c2ef1d90f2b5ca02b16 
+http://198.179.30.110/live/2606.low.stream/playlist.m3u8?id=0ad5aac39bb13fbec8a1a9007273ff82273d6fc4ad6baacc17804ae3fd72da0ea161c9bdad15d1e895a0de8b0dded1ca357451517525c1ad458e5d6e8f8c5d3e2295a10e69069f8c46d15752f8a60bfe5f3ad439081a8bda5522eb534d1610f7e933bb04a70329ebdfeed50b3bf9f74ccfb43c2f9e65173626f72fd929f9b45cb0f2de91022a4782e5db0920056231d4c40b0ce84b0d6b43 
 #EXTINF:-1,Rotana Cinema 
-http://204.107.27.137/live/2615.low.stream/playlist.m3u8?id=2c7a8e1bf1c050544174ccea85276aa405500c73e7cf8dd63bc8d397899343c3817dfbcc7ee9c77c5d6a7327c3123e7f00ef8a79b88fd4d760543d3c7fe7f49fcc4409c7206149e30efdf3b5224bf09c1b2c8ade4ede4fc0086d33ccb64f8acaa8a5b844932eec87f51b978962b2312fe7707a99f431bbe109ce4f63038976b55edc92f8cc232f4d313431df2af8e49502d71aeec938a105 
+http://198.179.30.110/live/2615.low.stream/playlist.m3u8?id=0ad5aac39bb13fbeecb84470909eb86d15c9f294ad8ac987245c0b3052c49581d37e3c7dafadece85ba0a95950ac2fff944ff536d481560d8aa63018be6b5be78686ad434510b83ce552162b94defca58630a3be63e5600788b62180ff3b8348784f626e182b4330d6aeccd2fc77b04ae14f0a0ff259bef57a289465ae014f1b52174e2786fa8afdafa4aa83c5cdfa89cb9bf13a2cc94cee
 #EXTINF:-1,Rotana Masria 
-http://204.107.27.137/live/2612.low.stream/playlist.m3u8?id=2c7a8e1bf1c050540d243ffeb6b02fd238dac4a5f680a06fec50c905b3e959a2786441ded04c6ca9b28133d5106bdc58500e3e73035488a4b0667e2f5593a47e65521ebea61478f6fba7c8930113e654b94573278e18728001416dc3e77bd182620e27996382f1d81209c0423169ba0cb195a5b93d7670091bf1076c2080f614848f50dfd8fc6332cf0ff7939f6bfb9b5a702e51e67ba0d4 
+ http://198.179.30.110/live/2612.low.stream/playlist.m3u8?id=0ad5aac39bb13fbe2fec207b36069351fa1fc164e56ca93629aced760cc2d355b5df89ab600fff8342ff7e13fceacd87e8677af858dd76d8de75522f8e58350dd05620cdbdd23ea536e672f4a8530119ad23daf00bcb3274e20f691a0d7e552451f30a9d8e6c0558bb6c1d2f4856c4844ff7ff4cfbb8aa8247c97649bf2e1f78d88119b44f49a78a6be7eea7188f70aa856b9c5e2a419a34 
 #EXTINF:-1,Rotana Classic 
-http://204.107.27.137/live/2609.low.stream/playlist.m3u8?id=8734021ce672df80a9ba47b06d5a361394a6ae4530b6afc894630e1f38e4c9fd4da42f5f2815c0dbf1c051a62e36f7ba270a95b69198e4272eef31b77b613dd5681fe30999b9dc07fac630ac8cdc58fc8b23da7ed4caab8f6ee3c7c65ac616c111383dfe32c6b9ad9bc7934f600d2976ca0099151d3f35d06c16fbdafcab6d82454c8e52603d057e506629f1fa087ffe9def19f5484a351f
-
+http://198.179.30.110/live/2609.low.stream/playlist.m3u8?id=0ad5aac39bb13fbea9a5d572c849f438073031a959bc83a2fd1b56f5cee888c1699327c3631c5ffba1edae60084e3fc5467cd554606fd01a7556d989542b812f9986f120827652b2e8ed449365a96b5a985e1d15396b6b4bc41810620b535751d8729ca0bda16b09c77e506dce754483d0ae7e3370e4ea1204c938d94bb67133065a1d18464868bba99a8a4716a64237c836dd6dadeff8a5
 
 
 
