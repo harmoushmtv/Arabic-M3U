@@ -19,10 +19,10 @@ http://livestreaming1.itworkscdn.net/mtvlive/smil:mtvmob.smil/playlist.m3u8
 rtsp://livestreaming.itworkscdn.net/ftvlive/ftvlive
 #EXTINF:-1,LBC
 https://svs.itworkscdn.net/lbcgrouplive/smil:lbclive.smil/playlist.m3u8?habazlamendtime=1444979347&habazlamwowzastarttime=0&habazlamwowzastcustom=1444936151&habazlamhash=whZhSy684mWVLpO_gvz1te0pl2DJ4ot4PvEzb1HJ9Ys=
-#EXTINF:-1,LBC
- http://38.99.146.38:7777/LBC_HD.m3u8?user=arash&session=313901131005005f34e12a04878aa4a400b172fe3f16a0ed36c7c6a7d9ffad0ba299017ce29bf1aa
-
-
+#EXTINF:-1,LBC SAT
+http://38.99.146.38:7777/LBC_HD.m3u8?user=arash&session=313901131005005f34e12a04878aa4a400b172fe3f16a0ed36c7c6a7d9ffad0ba299017ce29bf1aa
+#EXTINF:-1,Tele Liban
+http://38.99.146.40:7777/TeleLiban.m3u8?user=arash&session=4c97519adee1fb03f0e894ee6f90fdc869414a32aa3e0522ad37f24a7ed38871a299017ce29bf1aa
 
 #EXTINF:-1,ALAAN
 http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/al_aan/ls_satlink/b_828.m3u8
@@ -676,3 +676,33 @@ rtmp://$OPT:rtmp-raw=rtmp://184.173.181.3/live playpath=trhtgfjhgjhg?id=147478 s
 http://38.96.148.199:1935/liveedge1/livestream_720p/chunklist_w768131600.m3u8
 #EXTINF:-1,NBN
 rtmp://lived.nbn.com.lb/nbn/mpegts.stream
+
+
+#EXTINF:-1,Rotana Classic
+http://2.109.65.143/masa/14322.m3u8
+#EXTINF:-1,Rotana Masriya
+http://2.109.65.143/masa/14323.m3u8
+#EXTINF:-1,Rotana Khalijiah
+http://2.109.65.143/masa/14321.m3u8
+#EXTINF:-1,Rotana Musik
+http://2.109.65.143/masa/14602.m3u8
+#EXTINF:-1,Rotana Cinema
+http://2.109.65.143/masa/14603.m3u8
+#EXTINF:-1,Al Risala
+http://2.109.65.143/masa/14324.m3u8
+#EXTINF:-1,Panorama Film
+http://2.109.65.143/masa/14307.m3u8
+#EXTINF:-1,Time Film
+http://2.109.65.143/masa/14307.m3u8
+#EXTINF:-1,Time Comedy
+http://2.109.65.143/masa/14201.m3u8
+#EXTINF:-1,Mbc
+http://2.109.65.143/masa/14112.m3u8
+#EXTINF:-1,Mbc 2
+http://2.109.65.143/masa/14616.m3u8
+#EXTINF:-1,MTV Lebanon
+http://2.109.65.143/masa/14631.m3u8
+#EXTINF:-1,Future
+http://2.109.65.143/masa/14607.m3u8
+#EXTINF:-1,Manar
+http://2.109.65.143/masa/14125.m3u8
