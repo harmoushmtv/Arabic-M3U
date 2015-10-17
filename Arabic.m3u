@@ -18,7 +18,7 @@ http://livestreaming1.itworkscdn.net/mtvlive/smil:mtvmob.smil/playlist.m3u8
 #EXTINF:-1,Future Tv
 rtsp://livestreaming.itworkscdn.net/ftvlive/ftvlive
 #EXTINF:-1,LBC
-https://svs.itworkscdn.net/lbcgrouplive/smil:lbclive.smil/playlist.m3u8?habazlamendtime=1445022856&habazlamwowzastarttime=0&habazlamwowzastcustom=1444979660&habazlamhash=Q5lAWN2K63ydx0dpTeJhitiT83FcVRZ6-InCYm4guzk=
+https://svs.itworkscdn.net/lbcgrouplive/smil:lbclive.smil/chunklist.m3u8?habazlamendtime=1445070807&habazlamwowzastarttime=0&habazlamwowzastcustom=1445027611&habazlamhash=7cwIgBf0QJLOmPudsOoeM_TRe66XxkAjBllBFBcZiEQ=
 #EXTINF:-1,LBC SAT
 http://38.99.146.38:7777/LBC_HD.m3u8?user=arash&session=313901131005005f34e12a04878aa4a400b172fe3f16a0ed36c7c6a7d9ffad0ba299017ce29bf1aa
 #EXTINF:-1,Tele Liban
@@ -73,11 +73,15 @@ http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kS
 http://173.192.180.122/hls-live/livepkgr/_definst_/liveevent/live_ios.m3u8
 #EXTINF:-1,Al baghdadia Drama
 http://albaghdadiahls-i.akamaihd.net/hls/live/221008/albaghdadiaIOS2/master.m3u8
+#EXTINF:-1,Al baghdadia Drama 2
+http://albaghdadiahls-i.akamaihd.net/hls/live/221008/albaghdadiaIOS2/master.m3u8
 #EXTINF:-1,Dream
 http://38.99.146.38:7777/Dream1_Med.m3u8?user=arash&session=e435c8596368461bf65a6f6bea1e95d97330be422e5d1270ac26802f0ff2879e&
+#EXTINF:-1,Dream 2
+http://216.66.42.85:7777/Dream2_HD.m3u8?user=1445063483&session=ad591b62138b8edf18adc18672d3d29a0f9a26a55929900ae4ecbbc4139ddcd6a299017ce29bf1aa&v=1599781020
 
-#EXTINF:-1,Nessma
-http://216.66.42.86:7777/Nessma.m3u8?session=6bf4a42ff59f61ff556131e62c4e000619f191c419ffdadfae6e9b04f2a45123a299017ce29bf1aa
+#EXTINF:-1,Nile Life
+http://216.66.42.86:7777/NileLife.m3u8?user=arash&session=12afaea47a15bb5fc2d5c8f99f498e0f4eb4b39f2cc0bc385292fba4992b6021a299017ce29bf1aa&v=1599781020
 #EXTINF:-1,Alwaki3
 http://streaming.i-sat.tv:1935/live/alwaka.stream_360p/playlist.m3u8
 
@@ -105,12 +109,20 @@ http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/playlist.m3u8
 #EXTINF:-1,2M 
 http://origin2.live.web.tv.streamprovider.net/streams/a75793f45c54c78f66331bf9dda98222/index.m3u8
 
+#EXTINF:-1,Mbc 1
+http://216.66.42.85:7777/MBC1_HD.m3u8?user=1445062690&session=0b18bcd78b4895abfa2d1e692500044d6fce03b8d4bf88203290d9d2bdc30d29a299017ce29bf1aa&v=1599781020
+#EXTINF:-1,Mbc Drama
+http://216.66.42.85:7777/MBCDrama_HD.m3u8?user=1445062784&session=9e3d8d3618abfe840dc704b2cda8628dc5028e98546c805067aace0315b1963ca299017ce29bf1aa&v=1599781020
+#EXTINF:-1,Al Sudan
+http://216.66.42.86:7777/Sudan.m3u8?user=arash&session=56ef638138eade433f0619017db11decac2a43830f2342791d600c9abaf36b66a299017ce29bf1aa&v=1599781020
 #EXTINF:-1,Al Nahar Darama
-rtmp://stream138.n-stream.tv:2095/AlNaharTVSChannel/nahar_dramaprofile2.stream
+http://50.7.182.250:1935/AlNaharTVSChannel/nahar_dramaprofile2.stream/gmswf.m3u8?v=1599781020
 #EXTINF:-1,Al Nahar AlYawm
 http://stream250.n-stream.tv:1935/AlNaharTVSChannel/nahar_youmprofile2.stream/playlist.m3u8
 #EXTINF:-1,Al Nahar Tv
 http://stream250.n-stream.tv:1935/AlNaharTVSChannel/nahar_tvprofile2.stream/playlist.m3u8
+#EXTINF:-1,Al Nahar Sport
+http://50.7.182.250:1935/AlNaharTVSChannel/nahar_sportprofile2.stream/gmswf.m3u8?v=1599781020
 #EXTINF:-1,Al Iqtisadiyah
 rtmp://babflashlivefs.fplive.net/babflash9live-live?v=697151380/stream2
 #EXTINF:-1,Al Thakafiyah
@@ -144,7 +156,8 @@ http://agendastreamerx1.qna.org.qa:1935/ryn/ryn/chunklist.m3u8?wowzasessionid=75
 
 
 
-
+#EXTINF:-1,Al Risala
+http://2.109.65.143/masa/14324.m3u8
 
 
 
@@ -158,23 +171,35 @@ http://46.4.116.44:1935/m/chm8/Zona-Live-TV.m3u8
 
 
 
-#EXTINF:-1,Rotana Music
-http://198.179.30.110/live/2600.low.stream/playlist.m3u8?id=0ad5aac39bb13fbef1c68ce6c164956a732ceb5965e12b246eb1abd23b8515d25e5f970ed801ac203d8be7d6d9131c4ff06db991782e5016a8e725a4d3b77747e7a0353cb10fd557e97757cc046f664e34ec7447f9e7fe7a210bccdca6aba906c32204f1b02bb14f42635f927b67b21f7bc9a9fadfa65f1d0c5620da91cfa3747f35937ca952b8d2589dbcec7633798bc73d905ec9e4ca5b
+#EXTINF:-1,Panorama Film
+http://2.109.65.141/masa/14108.m3u8
 
 #EXTINF:-1,Rotana Cinema 
-http://198.179.30.110/live/2618.low.stream/playlist.m3u8?id=0ad5aac39bb13fbec55b9be5fb5aaeb775bae6cafd2cdc642cae91219f1a23670e130e75dd0e756456c099246f6ee36978c5562321e7dbad7efe9cc08762b3682cf15f50791899cbe480c7f88c18d696526562d1ebe7315e8544435ad345e31945af3ea788dfbaeea51088e707d376d73934fa056388d1da8e0d79bf79fecabeb1759ab8c30850337acad740047ddc14d860dcd9eb9e75fa
+http://216.66.42.85:7777/RotanaCinema_HD.m3u8?user=1445027271&session=49fe6b1f0449c98bc8d307ac12131a5c268cda1fe0951405e0cf6c8ac377746ba299017ce29bf1aa&v=1599781020
 #EXTINF:-1,Rotana Masria 
- http://198.179.30.110/live/2612.low.stream/playlist.m3u8?id=0ad5aac39bb13fbe2fec207b36069351fa1fc164e56ca93629aced760cc2d355b5df89ab600fff8342ff7e13fceacd87e8677af858dd76d8de75522f8e58350dd05620cdbdd23ea536e672f4a8530119ad23daf00bcb3274e20f691a0d7e552451f30a9d8e6c0558bb6c1d2f4856c4844ff7ff4cfbb8aa8247c97649bf2e1f78d88119b44f49a78a6be7eea7188f70aa856b9c5e2a419a34 
+http://2.109.65.143/masa/14323.m3u8 
 #EXTINF:-1,Rotana Classic 
- http://198.179.30.110/live/2609.low.stream/playlist.m3u8?id=0ad5aac39bb13fbef97b993e8b4145ee97825a410e83b29596bafa4d842abe755c68c0f449bd9401097a4c1f4626ddc304eec1bf1601c2aba9d30e2b562c2151a6a6a12db652452633d8441044730c7c1292af7802bb6cd2133c8f3909a198644e3b361817c86cb506ae564fda0f8c84d372ec9217c16cee55e053439e870fbf536a0ba60f53d3944e2881d895269ec56c387c7cd450fded
+http://2.109.65.143/masa/14322.m3u8
 #EXTINF:-1,Rotana Khalijia
-http://198.179.30.110/live/2606.low.stream/playlist.m3u8?id=0ad5aac39bb13fbe99c1afa7f15278658f81e079682eef7350aa4dfc8fda5f8a0e13c811b59d3e377bc9b84176a7925aa71edcc01218c7de7b3c0b9be4c7109042af6647b2113c42e53f0cc98b889cad069300ea33759ad6457bff67c6c1b6bd54d940bf4948a3785723368d6d64f722da77c448b6ef61cb3b6ae1400eae8e5bc7d75401150beed4490dad55ceca6a662dff2e4af6718812
+http://2.109.65.143/masa/14321.m3u8
 
 
-
-
-
-
+#EXTINF:-1,Asia
+rtmp://178.63.55.18:1935/live/myStream
+#EXTINF:-1,Coptisat
+rtmp://media.smc-host.com:1935/csat.tv/_definst_/mp4:csat2
+#EXTINF:-1,Mbc Action
+rtmp://63.237.48.23/live//MBC_ACTION
+#EXTINF:-1,Al taghyir
+http://stream.joinvisions.net:1935/taglive/taghier/playlist.m3u8
+#EXTINF:-1,Al Tanasuh
+http://1324425088@5.9.102.245:1935/live/tanasuhtv/gmswf.m3u8
+#EXTINF:-1,AD National Geography
+http://216.66.42.85:7777/ADNatGeo_HD.m3u8?user=1445027433&session=11696b02d39ad1e334dbc2577660b2adf23f28b3b22325cbe765943c2c37106aa299017ce29bf1aa&v=1599781020
+#EXTINF:-1,Pro Sport 1
+http://intigral_live-lh.akamaihd.net/i/DPS4SPLWHDXFSL161015_1@343605/index_768_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1,Pro Sport 2
+http://intigral_live-lh.akamaihd.net/i/DPS4SPLRADXFTH161015_1@343605/index_768_av-b.m3u8?sd=10&rebase=on
 
 
 
