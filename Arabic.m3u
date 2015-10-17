@@ -18,7 +18,7 @@ http://livestreaming1.itworkscdn.net/mtvlive/smil:mtvmob.smil/playlist.m3u8
 #EXTINF:-1,Future Tv
 rtsp://livestreaming.itworkscdn.net/ftvlive/ftvlive
 #EXTINF:-1,LBC
-rtsp://svs.itworkscdn.net/lbcgrouplive/lbc_2?habazlamendtime=1445120948&habazlamwowzastarttime=0&habazlamwowzastcustom=1445077752&habazlamhash=g8hVlOoglmteA2ZYNEMKTpjnrZev9o7eX_3J0N4f7Ao=
+https://svs.itworkscdn.net/lbcgrouplive/smil:lbclive.smil/playlist.m3u8?habazlamendtime=1445121354&habazlamwowzastarttime=0&habazlamwowzastcustom=1445078158&habazlamhash=HbLnBN4pAyMTIVzK5yRUwebVGdyf-ukKUe16p-YWk2g=
 #EXTINF:-1,LBC SAT
 http://38.99.146.38:7777/LBC_HD.m3u8?user=arash&session=313901131005005f34e12a04878aa4a400b172fe3f16a0ed36c7c6a7d9ffad0ba299017ce29bf1aa
 #EXTINF:-1,Tele Liban
