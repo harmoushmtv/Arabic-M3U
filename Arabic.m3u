@@ -47,6 +47,8 @@ rtsp://streaming.i-sat.tv/live/anb.stream_360p
 http://rt-lh.akamaihd.net/i/ch_03@325607/index_320p_av-p.m3u8
 #EXTINF:-1,Al Mayadeen
 rtsp://livestreaming3.itworkscdn.net/mayadeenlive/mayadsat_240p
+#EXTINF:-1,Karbalaa TV
+https://api.new.livestream.com/accounts/11436227/events/3998452/broadcasts/102100315.secure.m3u8?dw=100&hdnea=st=1445066673~exp=1445068473~acl=/i/11436227_3998452_76390100_1@317400/*~hmac=23b8dedebcb8e832e75a0f19ff128b4dc9299ab6773d07fdb779ba7e31079d41
 #EXTINF:-1,Al Imam Alhussein
 http://ca.live.imamhussein.tv:1935/live/ih201/playlist.m3u8
 #EXTINF:-1,Ahlulbayt
