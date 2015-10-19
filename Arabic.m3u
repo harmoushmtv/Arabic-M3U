@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1,Al Manar
- http://38.96.148.199:1935/liveedge1/livestream_360p/playlist.m3u8
+http://2.109.65.146/masa/14607.m3u8
 
 #EXTINF:-1,NBN
 rtmp://lived.nbn.com.lb/nbn/mpegts.stream
@@ -16,13 +16,13 @@ http://livestreaming.itworkscdn.net/otvmobile/otvlive_1/playlist.m3u8
 #EXTINF:-1,MTV Alloubnaniya
 http://livestreaming1.itworkscdn.net/mtvlive/smil:mtvmob.smil/playlist.m3u8
 #EXTINF:-1,Future Tv
-rtsp://livestreaming.itworkscdn.net/ftvlive/ftvlive
-#EXTINF:-1,LBC
-https://svs.itworkscdn.net/lbcgrouplive/smil:lbclive.smil/playlist.m3u8?habazlamendtime=1445121354&habazlamwowzastarttime=0&habazlamwowzastcustom=1445078158&habazlamhash=HbLnBN4pAyMTIVzK5yRUwebVGdyf-ukKUe16p-YWk2g=
+http://2.109.65.146/masa/14607.m3u8
+
 #EXTINF:-1,LBC SAT
 http://38.99.146.38:7777/LBC_HD.m3u8?user=arash&session=313901131005005f34e12a04878aa4a400b172fe3f16a0ed36c7c6a7d9ffad0ba299017ce29bf1aa
+
 #EXTINF:-1,Tele Liban
-http://38.99.146.40:7777/TeleLiban.m3u8?user=arash&session=4c97519adee1fb03f0e894ee6f90fdc869414a32aa3e0522ad37f24a7ed38871a299017ce29bf1aa
+http://38.99.146.40:7777/TeleLiban.m3u8?user=arash&session=2ebddfa8f8262897fa2ccc630925f4e8deaa56037f482ad936a0a007989e3788a299017ce29bf1aa
 
 #EXTINF:-1,ALAAN
 http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/al_aan/ls_satlink/b_828.m3u8
@@ -43,12 +43,13 @@ rtsp://streaming.i-sat.tv/live/anb.stream_360p
 
 
 
+
 #EXTINF:-1,Russia Today
 http://rt-lh.akamaihd.net/i/ch_03@325607/index_320p_av-p.m3u8
 #EXTINF:-1,Al Mayadeen
-rtsp://livestreaming3.itworkscdn.net/mayadeenlive/mayadsat_240p
+http://2.109.65.146/masa/14606.m3u8
 #EXTINF:-1,Karbalaa TV
-https://api.new.livestream.com/accounts/11436227/events/3998452/broadcasts/102100315.secure.m3u8?dw=100&hdnea=st=1445066673~exp=1445068473~acl=/i/11436227_3998452_76390100_1@317400/*~hmac=23b8dedebcb8e832e75a0f19ff128b4dc9299ab6773d07fdb779ba7e31079d41
+http://2.109.65.231/masa/23111.m3u8
 #EXTINF:-1,Al Imam Alhussein
 http://ca.live.imamhussein.tv:1935/live/ih201/playlist.m3u8
 #EXTINF:-1,Ahlulbayt
@@ -63,13 +64,27 @@ http://alforatlive.nanocdn.com:1935/live/alforat256/playlist.m3u8
 
 #EXTINF:-1,Al Iman
 http://liven.alimantv.com/liveimn.isml/manifest(format=m3u8-aapl).m3u8
-
+#EXTINF:-1,Al Masar
+rtmp://msr1tv.flashmediacast.com:2071/live/livestream
+#EXTINF:-1,Al Masira
+http://livestreaming4.itworkscdn.com/masira/livetv1/chunklist.m3u8
+#EXTINF:-1,Al Sahat
+http://iphone-streaming.ustream.tv/ustreamVideo/17579613/streams/live/playlist.m3u8
 #EXTINF:-1,Al Islam
 http://tx.sharp-stream.com/vidiphone.php?c=islamtv/islamtv.stream/playlist.m3u8
+
 #EXTINF:-1,DW Arabia
 http://www.metafilegenerator.de/DWelle/tv-arabia/ios/master.m3u8
 #EXTINF:-1,Aljazeera Doc
 http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kStream.m3u8
+#EXTINF:-1,Al Saeeda
+http://iphone-streaming.ustream.tv/ustreamVideo/10270300/streams/live/playlist.m3u8
+#EXTINF:-1,Selah
+http://streamer11.elementssys.com:8080/selah/index.m3u8
+#EXTINF:-1,Mekameleen
+rtmp://mn-i.mncdn.com/r_mekameleen?697119491/live1
+#EXTINF:-1,Cinema Pro
+ http://2.109.65.142/masa/14208.m3u8
 
 #EXTINF:-1,Orient
 http://173.192.180.122/hls-live/livepkgr/_definst_/liveevent/live_ios.m3u8
