@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1,Al Manar
-http://2.109.65.146/masa/14607.m3u8
+http://2.109.65.146/masa/14125.m3u8
 
 #EXTINF:-1,NBN
 rtmp://lived.nbn.com.lb/nbn/mpegts.stream
@@ -47,7 +47,7 @@ rtsp://streaming.i-sat.tv/live/anb.stream_360p
 #EXTINF:-1,Russia Today
 http://rt-lh.akamaihd.net/i/ch_03@325607/index_320p_av-p.m3u8
 #EXTINF:-1,Al Mayadeen
-http://2.109.65.146/masa/14606.m3u8
+http://2.109.65.146/masa/14124.m3u8
 #EXTINF:-1,Karbalaa TV
 http://2.109.65.231/masa/23111.m3u8
 #EXTINF:-1,Al Imam Alhussein
