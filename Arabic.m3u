@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1,Al Manar
-http://2.109.65.146/masa/14125.m3u8
+http://38.96.148.199:1935/liveedge1/livestream_360p/playlist.m3u8
 
 #EXTINF:-1,NBN
 rtmp://lived.nbn.com.lb/nbn/mpegts.stream
@@ -21,8 +21,6 @@ http://2.109.65.146/masa/14607.m3u8
 #EXTINF:-1,LBC SAT
 http://38.99.146.38:7777/LBC_HD.m3u8?user=arash&session=313901131005005f34e12a04878aa4a400b172fe3f16a0ed36c7c6a7d9ffad0ba299017ce29bf1aa
 
-#EXTINF:-1,Tele Liban
-http://38.99.146.40:7777/TeleLiban.m3u8?user=arash&session=2ebddfa8f8262897fa2ccc630925f4e8deaa56037f482ad936a0a007989e3788a299017ce29bf1aa
 
 #EXTINF:-1,ALAAN
 http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/al_aan/ls_satlink/b_828.m3u8
@@ -47,7 +45,7 @@ rtsp://streaming.i-sat.tv/live/anb.stream_360p
 #EXTINF:-1,Russia Today
 http://rt-lh.akamaihd.net/i/ch_03@325607/index_320p_av-p.m3u8
 #EXTINF:-1,Al Mayadeen
-http://2.109.65.146/masa/14124.m3u8
+rtsp://livestreaming3.itworkscdn.net/mayadeenlive/mayadsat_240p
 #EXTINF:-1,Karbalaa TV
 http://2.109.65.231/masa/23111.m3u8
 #EXTINF:-1,Al Imam Alhussein
