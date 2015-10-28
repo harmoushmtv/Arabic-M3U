@@ -788,19 +788,37 @@ http://2.109.65.143/masa/14125.m3u8
 http://mobilestreaming.itworkscdn.com/hawacom/hawacomlive/playlist.m3u8
 #EXTINF:-1,Euro News
 http://fr-par-iphone-1.cdn.hexaglobe.net/streaming/euronews_ewns/iphone_ar.m3u8
-#EXTINF:-1,Am Derman
- http://38.99.146.40:7777/OmDurman.m3u8?user=arash&session=65f985b047960e641319065301bcb778039541e11b574ba033b22316595d8901de2a9a15d4e21705
+
 
 #EXTINF:-1,On Tv
  rtmp://stream250.n-stream.tv:1935/ONTelevChannel/ontvlive_profile2.stream
 
-#EXTINF:-1,Al Aqsa
- http://38.99.146.42:7777/AqsaSatCh.m3u8?user=arash&session=f4d0a39ddbead4b998b87a556167fa0ae5dcf4dbe131a012b83e7a9244398f7b9bbafdbd35615a44
+4
 #EXTINF:-1,Al Amaken Drama
 http://38.99.146.42:7777/AlAmakenDrama.m3u8?user=arash&session=262df8bd1e8f1cf39cd88829e752f8fdea3f183e9606822ff413e6f70bd9d4b03ce6f1872d21c5ca
-#EXTINF:-1,Al Anwar
- http://38.99.146.42:7777/AlAnwar.m3u8?user=arash&session=8fbbb0ee2c9805dfcb58d12d6b5cf509beb2ce877dade601e37d3e780e10fee8
+
 #EXTINF:-1,Bahrain Sport
 rtmp://alayam.netromedia.net/btv3/btv3
 #EXTINF:-1,Al Jadeed
 http://2.109.65.146/masa/14606.m3u8
+
+#EXTINF:-1,Dream 1
+http://2.109.65.137/masa/13777.m3u8
+#EXTINF:-1,Dream 2
+http://2.109.65.137/masa/13776.m3u8
+#EXTINF:-1,Mazzika
+http://2.109.65.137/masa/13772.m3u8
+#EXTINF:-1,SpaceToon
+http://2.109.65.137/masa/13768.m3u8
+#EXTINF:-1,Haseen Music
+http://2.109.65.137/masa/13770.m3u8
+#EXTINF:-1,Nile Comedy
+http://2.109.65.137/masa/tun3726.m3u8
+#EXTINF:-1,Nile Life
+http://2.109.65.137/masa/tun3724.m3u8
+#EXTINF:-1,National Geographie
+http://2.109.65.137/masa/tun3725.m3u8
+#EXTINF:-1,Art Aflam 2
+http://2.109.65.137/masa/tun3717.m3u8
+#EXTINF:-1,Art Aflam 1
+http://2.109.65.137/masa/tun3716.m3u8
