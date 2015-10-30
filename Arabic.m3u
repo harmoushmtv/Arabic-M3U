@@ -121,22 +121,22 @@ http://origin2.live.web.tv.streamprovider.net/streams/a75793f45c54c78f66331bf9dd
 http://2.109.65.141/masa/14112.m3u8
 #EXTINF:-1,Mbc Drama
 http://2.109.65.141/masa/14113.m3u8
-#EXTINF:-1,Al Sudan
-http://216.66.42.86:7777/Sudan.m3u8?user=arash&session=56ef638138eade433f0619017db11decac2a43830f2342791d600c9abaf36b66a299017ce29bf1aa&v=1599781020
 #EXTINF:-1,Al Nahar Darama
-http://50.7.182.250:1935/AlNaharTVSChannel/nahar_dramaprofile2.stream/gmswf.m3u8?v=1599781020
+ http://2.109.65.146/masa/14613.m3u8
 #EXTINF:-1,Al Nahar AlYawm
-http://stream250.n-stream.tv:1935/AlNaharTVSChannel/nahar_youmprofile2.stream/playlist.m3u8
+http://2.109.65.142/masa/14221.m3u8
 #EXTINF:-1,Al Nahar Tv
-http://stream250.n-stream.tv:1935/AlNaharTVSChannel/nahar_tvprofile2.stream/playlist.m3u8
-#EXTINF:-1,Al Nahar Sport
-http://50.7.182.250:1935/AlNaharTVSChannel/nahar_sportprofile2.stream/gmswf.m3u8?v=1599781020
-#EXTINF:-1,Al Iqtisadiyah
+http://2.109.65.249/masa/24903.m3u8
+#EXTINF:-1,Al Nahar 2
+http://2.109.65.249/masa/24903.m3u8
+#EXTINF:-1,KSA Al Iqtisadiyah
 rtmp://babflashlivefs.fplive.net/babflash9live-live?v=697151380/stream2
-#EXTINF:-1,Al Thakafiyah
+#EXTINF:-1,KSA Al Thakafiyah
 rtmp://babflashlivefs.fplive.net/babflash8live-live?v=697151380/stream2
 #EXTINF:-1,Saudi Arabia 1
 rtmp://babflashlivefs.fplive.net/babflash3live-live?v=697151380/stream2
+#EXTINF:-1,KSA Al Ekhbariah
+http://2.109.65.145/masa/14509.m3u8
  
 #EXTINF:-1,Maan
 rtmp://217.21.0.14/maan//mp4:maan_1
@@ -182,7 +182,7 @@ http://2.109.65.141/masa/14108.m3u8
 #EXTINF:-1,Rotana Khaligi
 http://2.109.65.143/masa/14321.m3u8
 #EXTINF:-1,Rotana Cinema
-http://204.107.27.137/live/2615.low.stream/playlist.m3u8?id=2c7a8e1bf1c050544174ccea85276aa405500c73e7cf8dd63bc8d397899343c34b756af500229b3b206efc05b744190361be985ebeb8969677fb4896968f82cda17120771f31d3d461440cc9b8f1d59023d4b1ec4517f1c8907f9a1b7ac903af5428992c9e7dfa1f31073a1f8f200b6b120d79b4a1ffd3c4ee6a2eca810d4f60c448102417cfa43f9a0a91ad7772c63751183a9e2f3cc4ef
+http://198.179.30.110/live/2618.low.stream/playlist.m3u8?id=0ad5aac39bb13fbe23c55bb2a14ca7d776613535382342d4402c09d52c1d4ebfb3a2ae9c965087925e4ad529d34b514a0c0447a650c098585fca9a7ad270cc41726123f040885a2e8238746f9f97174468d70685211c0e23c98de84f98621464d15dff3163a5d87601803966cd612b949d62d5f3172d345abe42069a8bcc5d5ad836a3c1c8547fb7d308a90b8cbc6eab7a4c848220d22f8c
 #EXTINF:-1,Rotana Masria
 http://2.109.65.143/masa/14323.m3u8
 #EXTINF:-1,Rotana Classic
@@ -778,9 +778,14 @@ http://2.109.65.143/masa/14616.m3u8
 http://2.109.65.143/masa/14631.m3u8
 #EXTINF:-1,Future
 http://2.109.65.143/masa/14607.m3u8
-#EXTINF:-1,Manar
-http://2.109.65.143/masa/14125.m3u8
-
+#EXTINF:-1,Al Hayat 2
+http://2.109.65.137/masa/13765.m3u8
+#EXTINF:-1,Roya
+http://2.109.65.137/masa/tun3727.m3u8
+#EXTINF:-1,Nile Cinema
+http://2.109.65.137/masa/tun3723.m3u8
+#EXTINF:-1,Art hikayat
+http://2.109.65.137/masa/tun3718.m3u8
 
 #EXTINF:-1,Tele Liban
  http://38.99.146.42:7777/TeleLiban.m3u8?user=arash&session=dca2278543c6b5e9143a080356969b4a2bac5e368739c266b83e7a9244398f7b9bbafdbd35615a44
