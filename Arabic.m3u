@@ -905,6 +905,9 @@ http://2.109.65.138/masa/tun3716.m3u8
 http://2.109.65.138/masa/tun3718.m3u8
 #EXTINF:-1,Art Cinema
 http://2.109.65.138/masa/tun3720.m3u8
-#EXTINF:-1,Art Hikayat 1
+#EXTINF:-1,Art Hikayat 2
 http://2.109.65.138/masa/tun3725.m3u8
+#EXTINF:-1,Art Hikayat 
+http://2.109.65.138/masa/tun3718.m3u8
+
 
