@@ -29,12 +29,8 @@ http://2.109.65.146/masa/14607.m3u8
 
 
 
-
-
-
-
 #EXTINF:-1,Russia Today
-http://rt-lh.akamaihd.net/i/ch_03@325607/index_320p_av-p.m3u8
+http://rt-a.akamaihd.net/ch_03@325607/320p.m3u8
 #EXTINF:-1,Al Mayadeen
 rtsp://livestreaming3.itworkscdn.net/mayadeenlive/mayadsat_240p
 
@@ -192,7 +188,7 @@ http://2.109.65.141/masa/14108.m3u8
 http://2.109.65.143/masa/14321.m3u8
 
 #EXTINF:-1,Rotana Cinema 
-http://198.179.30.110/live/2618.low.stream/playlist.m3u8?id=0ad5aac39bb13fbe16d919c6eee12895d3821cc0773f1380cedbe52519704fb7cfca440cd9b0086b97afb351b9001c815919da645f2648ee3cc7ab74d814cb1fef7f3146595bf6e7a5d6c86444886114ae1b89e5ad66ebec10e05bc8b3e742a450bbae43c1375ba3b89232854fd87b6c7db02cd2a8ecb94880aa6219356e5223e07a84fdb6159176263e8e0bcffe6b42df41025d8258c3ea
+http://204.107.27.137/live/2615.low.stream/playlist.m3u8?id=2c7a8e1bf1c050544174ccea85276aa405500c73e7cf8dd63bc8d397899343c3edfb100d3b7e72a7bf3c04b7968479bf4e5084fceee6c415aa4f0aa581ade5c3016d8ff3c8f898d854c1990d01681845e93122037f5002f6695f79c02ddf8734e1e5bbeb7ef121f757d696c1651c6c8f68df65d9ebf67f443df7f9a27be87dffde42f65b0a60bb4c270e041f23fd3dcbbe39a2679da04537
 
 
 #EXTINF:-1,Rotana Masria 
@@ -644,7 +640,7 @@ http://flv.alarab.net:8080//flv/79937.flv
 http://flv.alarab.net:8080//flv/83198.flv?start=0
 #EXTINF:-1, Arabic Film 2 2014
 http://flv.alarab.net:8080//flv/83056.flv?start=0
-#EXTINF:-1 group-title="BestLinkss",_????_???_?????_Omar_2014
+#EXTINF:-1,Omar_2014
 http://flv.alarab.net:8080//flv/83554.flv?start=0
 #EXTINF:-1, Arabic Film 3
 http://flv.alarab.net:8080//flv/83196.flv?start=0
@@ -656,7 +652,7 @@ http://flv.alarab.net:8080//flv/74722.flv
 http://flv.alarab.net:8080//flv/80106.flv
 #EXTINF:-1,7amati_bit7ibini
 http://flv.alarab.net:8080//flv/83334.flv
-#EXTINF:-1 group-title="BestLinkss",flv 7olm_omr
+#EXTINF:-1,flv 7olm_omr
 http://flv.alarab.net:8080//flv/76547.flv
 #EXTINF:-1,THE_DEALER
 http://flv.alarab.net:8080//flv/80603.flv
@@ -674,11 +670,11 @@ http://flv.alarab.net:8080//flv/81800.flv
 http://flv.alarab.net:8080//flv/82374.flv
 #EXTINF:-1,amwaj_9assira
 http://flv.alarab.net:8080//flv/79349.flv
-#EXTINF:-1 group-title="BestLinkss",flv atarik_adairi
+#EXTINF:-1,flv atarik_adairi
 http://flv.alarab.net:8080//flv/81569.flv
 #EXTINF:-1,bibi
 http://flv.alarab.net:8080//flv/76517.flv
-#EXTINF:-1 group-title="BestLinkss",flv captin_hima
+#EXTINF:-1,flv captin_hima
 http://flv.alarab.net:8080//flv/81153.flv
 #EXTINF:-1,elphil_ alazra9
 http://flv.alarab.net:8080//flv/80344.flv
@@ -688,7 +684,7 @@ http://flv.alarab.net:8080//flv/81251.flv
 http://flv.alarab.net:8080//flv/76585.flv
 #EXTINF:-1,jawazat_miry
 http://flv.alarab.net:8080//flv/80472.flv
-#EXTINF:-1 group-title="BestLinkss",flv kalam_jarayad
+#EXTINF:-1,flv kalam_jarayad
 http://flv.alarab.net:8080//flv/74953.flv
 #EXTINF:-1,lamoa5da
 http://flv.alarab.net:8080//flv/81304.flv
@@ -902,12 +898,9 @@ http://2.109.65.138/masa/tun3717.m3u8
 #EXTINF:-1,Art Aflam 1
 http://2.109.65.138/masa/tun3716.m3u8
 #EXTINF:-1,Art Cinema
-http://2.109.65.138/masa/tun3718.m3u8
-#EXTINF:-1,Art Cinema
 http://2.109.65.138/masa/tun3720.m3u8
 #EXTINF:-1,Art Hikayat 2
 http://2.109.65.138/masa/tun3725.m3u8
 #EXTINF:-1,Art Hikayat 
 http://2.109.65.138/masa/tun3718.m3u8
-
 
