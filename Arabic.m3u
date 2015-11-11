@@ -742,28 +742,29 @@ http://flv.alarab.net:8080//flv/83155.flv?start=0
 
 
 #EXTINF:-1,BEIN_SPORT HD1
-http://edge.ultracast.me:1935/live/1beinjkJND/gmswf.m3u8?v=Token=c2VydmVyX3RpbWU9MTQ0NjU5MDQyMCZoYXNoX3ZhbHVlPTRmNzUwMjllOGVlNTM1ZTdkMGNiOGZlMjQ1MDExNDBhJnZhbGlkbWludXRlcz0zMCZNQQ==&Token
+http://95.211.211.164/tv/bein1.stream/index.m3u8
 #EXTINF:-1,BEIN_SPORT HD2
-http://edge.ultracast.me:1935/live/2BI9n0K/gmswf.m3u8?v=Token=c2VydmVyX3RpbWU9MTQ0NjU5MDQyMCZoYXNoX3ZhbHVlPTRmNzUwMjllOGVlNTM1ZTdkMGNiOGZlMjQ1MDExNDBhJnZhbGlkbWludXRlcz0zMCZNQQ==&Token
+http://95.211.211.164/tv/bein2.stream/index.m3u8
 #EXTINF:-1,BEIN_SPORT HD3
-http://edge.ultracast.me:1935/live/b3NRh1e/gmswf.m3u8?v=Token=c2VydmVyX3RpbWU9MTQ0NjU5MDQyMCZoYXNoX3ZhbHVlPTRmNzUwMjllOGVlNTM1ZTdkMGNiOGZlMjQ1MDExNDBhJnZhbGlkbWludXRlcz0zMCZNQQ==&Token
+http://50.7.69.138:8128/hls/bein3hd.m3u8
 #EXTINF:-1,BEIN_SPORT HD4
-http://edge.ultracast.me:1935/live/4BodrOP/gmswf.m3u8?v=Token=c2VydmVyX3RpbWU9MTQ0NjU5MDQyMCZoYXNoX3ZhbHVlPTRmNzUwMjllOGVlNTM1ZTdkMGNiOGZlMjQ1MDExNDBhJnZhbGlkbWludXRlcz0zMCZNQQ==&Token
+http://50.7.69.138:8128/hls/bein4hd.m3u8
 #EXTINF:-1,BEIN_SPORT HD5
-http://edge.ultracast.me:1935/live/5B4uHP7/gmswf.m3u8?v=Token=c2VydmVyX3RpbWU9MTQ0NjU5MDQyMCZoYXNoX3ZhbHVlPTRmNzUwMjllOGVlNTM1ZTdkMGNiOGZlMjQ1MDExNDBhJnZhbGlkbWludXRlcz0zMCZNQQ==&Token
+http://50.7.69.138:8128/hls/bein5hd.m3u8
 #EXTINF:-1,BEIN_SPORT HD6
-http://edge.ultracast.me:1935/live/6BcO3ow/gmswf.m3u8?v=Token=c2VydmVyX3RpbWU9MTQ0NjU5MDQyMCZoYXNoX3ZhbHVlPTRmNzUwMjllOGVlNTM1ZTdkMGNiOGZlMjQ1MDExNDBhJnZhbGlkbWludXRlcz0zMCZNQQ==&Token
+http://50.7.69.138:8128/hls/bein6hd.m3u8
 #EXTINF:-1,BEIN_SPORT HD7
-http://edge.ultracast.me:1935/live/7beinZgAlu/gmswf.m3u8?v=Token=c2VydmVyX3RpbWU9MTQ0NjU5MDQyMCZoYXNoX3ZhbHVlPTRmNzUwMjllOGVlNTM1ZTdkMGNiOGZlMjQ1MDExNDBhJnZhbGlkbWludXRlcz0zMCZNQQ==&Token
+http://50.7.69.138:8128/hls/bein7hd.m3u8
 #EXTINF:-1,BEIN_SPORT HD8
-http://edge.ultracast.me:1935/live/8beinfLUBH/gmswf.m3u8?v=Token=c2VydmVyX3RpbWU9MTQ0NjU5MDQyMCZoYXNoX3ZhbHVlPTRmNzUwMjllOGVlNTM1ZTdkMGNiOGZlMjQ1MDExNDBhJnZhbGlkbWludXRlcz0zMCZNQQ==&Token
-#EXTINF:-1,BEIN_SPORT HD11
-http://edge.ultracast.me:1935/live/bein11hdDgkU1/gmswf.m3u8?v=Token=c2VydmVyX3RpbWU9MTQ0NjU5MDQyMCZoYXNoX3ZhbHVlPTRmNzUwMjllOGVlNTM1ZTdkMGNiOGZlMjQ1MDExNDBhJnZhbGlkbWludXRlcz0zMCZNQQ==&Token
+http://50.7.69.138:8128/hls/bein8hd.m3u8
+#EXTINF:-1,BEIN_SPORT HD9
+http://50.7.69.138:8128/hls/bein9hd.m3u8
 #EXTINF:-1,BEIN_SPORT HD12
-http://edge.ultracast.me:1935/live/bein12hdSQD3t/gmswf.m3u8?v=Token=c2VydmVyX3RpbWU9MTQ0NjU5MDQyMCZoYXNoX3ZhbHVlPTRmNzUwMjllOGVlNTM1ZTdkMGNiOGZlMjQ1MDExNDBhJnZhbGlkbWludXRlcz0zMCZNQQ==&Token
+http://50.7.69.138:8128/hls/bein10hd.m3u8
+
 
 #EXTINF:-1,BEIN SPORTS 1 HD
-http://95.211.211.164/tv/bein1.stream/index.m3u8
+http://50.7.69.138:8128/hls/bein1hd.m3u8
 #EXTINF:-1,BEIN SPORTS 2 HD
 http://95.211.211.164/tv/bein2.stream/index.m3u8
 #EXTINF:-1,BEIN SPORTS 3 HD
@@ -771,11 +772,23 @@ http://95.211.211.164/tv/bein3.stream/index.m3u8
 #EXTINF:-1,BEIN SPORTS 4 HD
 http://95.211.211.164/tv/bein4.stream/index.m3u8
 
+#EXTINF:-1,BEIN SPORTS 2 HD
+http://50.7.69.138:8128/hls/bein2hd.m3u8
+
+#EXTINF:-1,IdmanSport Spanien Liga
+http://149.255.152.72/hls-live/livepkgr/idman/idman/idman.m3u8
+
 #EXTINF:-1,BEIN SPORT 1 FR HD
 http://myafricanmega3.tulix.tv:1935/map-beinsports1hd/map-beinsports1hd/playlist.m3u8
 
 #EXTINF:-1,NTV Sport
 http://origin.live.web.tv.streamprovider.net/streams/a820629b8abc43c73c76b091086c138a_live_0_0/index.m3u8
+
+#EXTINF:-1,PTV Sport
+http://cric.dynns.com:1935/iptv/ptvsports/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTAvMjAxNSAxMTowMzowNiBQTSZoYXNoX3ZhbHVlPStFSEFUZW9EMlM5TzYxeGpibG5XK3c9PSZ2YWxpZG1pbnV0ZXM9Mg==
+
+#EXTINF:-1,Sky 5 UK Sport
+http://cric.dynns.com:1935/iptv/skysp5/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTAvMjAxNSAxMTowNTozMCBQTSZoYXNoX3ZhbHVlPWNsWUhTYUc4MmZvZ0VPUmxXVnkzamc9PSZ2YWxpZG1pbnV0ZXM9Mg==
 
 #EXTINF:-1,Lequipe
 http://streaming-hub.com/stream/lequipe21.m3u8
